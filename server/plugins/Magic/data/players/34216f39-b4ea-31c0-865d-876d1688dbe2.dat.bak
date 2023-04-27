@@ -1,0 +1,19 @@
+id: 34216f39-b4ea-31c0-865d-876d1688dbe2
+name: fe4r
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 122.14219844613405,63.12499999530613,78.61131076356253,world,120.75011,4.6500077
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

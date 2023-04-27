@@ -1,0 +1,106 @@
+Apply-Message: "&c&lS&6&lp&e&le&a&lc&b&lt&9&lr&5&lu&c&lm &aset activated"
+Remove-Message: "&c&lS&6&lp&e&le&a&lc&b&lt&9&lr&5&lu&c&lm &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'GALAXY'
+  - 'REDUCTION:25'
+  - 'DAMAGE:10'
+
+Upgrade:
+  material: "BARRIER"
+  data: 0
+  name: "&c&lNOT APPLICABLE"
+  lore:
+    - '&c&lNOT APPLICABLE'
+
+Weapon:
+  effects:
+    - 'Damage:10'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:3'
+  material: "DIAMOND_SWORD"
+  name: "&c&lS&6&lp&e&le&a&lc&b&lt&9&lr&5&lu&c&lm&f&l Sickle"
+  lore:
+    - '&f&oSpectrum sickle that is not used for'
+    - '&f&ocommon chores but is used to defeat the'
+    - '&f&othe brutes using the power of the &cR&6A&eI&aN&bB&9O&5W'
+    - ''
+    - '&c&lS&6&lP&e&lE&a&lC&b&lT&9&lR&5&lU&c&lM&f&l WEAPON BONUS'
+    - '&f* +10% PvP Damage'
+    - '&7&o(Requires all 4 spectrum set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "HEROIC_HELMET"
+  color: '255,255,255'
+  data: 0
+  name: "&c&lS&6&lp&e&le&a&lc&b&lt&9&lr&5&lu&c&lm&f&l Helmet"
+  lore:
+    - '&f&oSpectrum helmet can be found at the end of a rainbow'
+    - '&f&oIt exudes the most bright shine of a rainbow'
+    - ''
+    - '&c&lS&6&lP&e&lE&a&lC&b&lT&9&lR&5&lU&c&lM &f&lSET BONUS'
+    - '&f* +10% Outgoing Damage'
+    - '&f* -25% Incoming Damage'
+    - '&f* Ability to cycle through the rainbow'
+    - '&7&o(Requires all 4 spectrum items.)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "HEROIC_CHESTPLATE"
+  color: '255,255,255'
+  data: 0
+  name: "&c&lS&6&lp&e&le&a&lc&b&lt&9&lr&5&lu&c&lm&f&l Chestplate"
+  lore:
+    - '&f&oSome may claim this chestplate does not inflict'
+    - '&f&ofear but looks deceive you, this is a powerful chestplate'
+    - ''
+    - '&c&lS&6&lP&e&lE&a&lC&b&lT&9&lR&5&lU&c&lM &f&lSET BONUS'
+    - '&f* +10% Outgoing Damage'
+    - '&f* -25% Incoming Damage'
+    - '&f* Ability to cycle through the rainbow'
+    - '&7&o(Requires all 4 spectrum items.)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "HEROIC_LEGGINGS"
+  color: '255,255,255'
+  data: 0
+  name: "&c&lS&6&lp&e&le&a&lc&b&lt&9&lr&5&lu&c&lm&f&l Leggings"
+  lore:
+    - '&f&oLeggings to showoff the sceptical of a rainbow'
+    - '&f&odoesn''t come often but is amazing when it does'
+    - ''
+    - '&c&lS&6&lP&e&lE&a&lC&b&lT&9&lR&5&lU&c&lM &f&lSET BONUS'
+    - '&f* +10% Outgoing Damage'
+    - '&f* -25% Incoming Damage'
+    - '&f* Ability to cycle through the rainbow'
+    - '&7&o(Requires all 4 spectrum items.)'
+
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "HEROIC_BOOTS"
+  color: '255,255,255'
+  data: 0
+  name: "&c&lS&6&lp&e&le&a&lc&b&lt&9&lr&5&lu&c&lm&f&l Boots"
+  lore:
+    - '&f&oSwift movements as if you are running on a rainbow'
+    - ''
+    - '&c&lS&6&lP&e&lE&a&lC&b&lT&9&lR&5&lU&c&lM &f&lSET BONUS'
+    - '&f* +10% Outgoing Damage'
+    - '&f* -25% Incoming Damage'
+    - '&f* Ability to cycle through the rainbow'
+    - '&7&o(Requires all 4 spectrum items.)'

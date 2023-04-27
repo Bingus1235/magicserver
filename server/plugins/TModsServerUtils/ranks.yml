@@ -1,0 +1,36 @@
+Players:
+  2e5151b6-b198-3b75-8444-ebb9a21c8aa6: unverified
+  41cbc1a2-8904-31af-b473-0a0542d84b78: God
+  34216f39-b4ea-31c0-865d-876d1688dbe2: unverified
+  82f09418-502e-32fd-a2b4-7723a23e6f41: player
+  78fd6d6f-2da9-3654-ae99-a85350fbd6c8: unverified
+  33e1b1f6-8e21-3c2e-bf04-2dcff0503ec1: unverified
+  f7f3c8b0-5ee2-32bf-b92f-df043774c5c2: player
+  87611528-9176-3688-87e3-7bd8cea79903: unverified
+  1a239ac5-be38-3b1b-8747-54f520b6bd0a: unverified
+  48bf079b-4545-3b18-897b-3bfcc69647bd: unverified
+  61f01376-7053-3bc1-a4b8-6b2e1ffe6e74: unverified
+  df7ca436-346a-3bf1-a823-a2f1caca3156: unverified
+  37c44f37-5202-3e7f-ba85-ee4f00fe48f5: unverified
+  9b9a31fa-0141-3179-be95-e902799d077d: player
+  efc3f48a-367c-3372-9a8f-25ad47068e01: unverified
+  5cdd78dd-b194-3234-a38e-15cea824c2be: unverified
+Ranks:
+  unverified:
+    name: unverified
+    permissions: []
+    prefix: '[Unverified] '
+    suffix: ': '
+    default: true
+  God:
+    name: God
+    permissions: []
+    prefix: 'G '
+    suffix: 'D '
+    default: false
+  player:
+    name: player
+    permissions: []
+    prefix: '[Player] '
+    suffix: ': '
+    default: false

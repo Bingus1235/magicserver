@@ -1,0 +1,94 @@
+Apply-Message: "&b&lYeti &aset activated"
+Remove-Message: "&b&lYeti &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'REDUCTION:10'
+  - 'DAMAGE:10'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&b&lYeti&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &b&lYeti &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor'
+
+Weapon:
+  effects:
+    - 'DAMAGE:8'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_AXE"
+  data: 0
+  name: "&b&lYeti Maul"
+  lore:
+    - '&7A penetrating axe used by a Yeti.'
+    - ''
+    - '&b&lYETI WEAPON BONUS'
+    - '&b* Deal +7.5% DMG to enemies.'
+    - '&7&o(Requires all 4 yeti set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&b&lYeti Facemask"
+  lore:
+    - '&bThe savage mask of the Yeti.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&b&lBloody Yeti Torso"
+  lore:
+    - '&bThe impermeable chestplate of the Yeti.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&b&lFuzzy Yeti Leggings"
+  lore:
+    - '&bThe cozy yet monstrous legs of the Yeti.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&b&lBig-Yeti Boots"
+  lore:
+    - '&bBigfoot has nothing on these boots.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'

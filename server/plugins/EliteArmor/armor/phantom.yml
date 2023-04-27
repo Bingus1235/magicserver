@@ -1,0 +1,97 @@
+Apply-Message: "&c&lPhantom &aset activated"
+Remove-Message: "&c&lPhantom &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'DAMAGE:35'
+  - 'REDUCTION:-10'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&c&lPhantom&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &c&lPhantom &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor!'
+
+Weapon:
+  effects:
+    - 'DAMAGE:5'
+    - 'REDUCTION:5'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  data: 0
+  name: "&c&lPhantom Scythe"
+  lore:
+    - '&7An eerie blade designed to'
+    - '&7cut through the enemies.'
+    - ''
+    - '&c&lPHANTOM WEAPON BONUS'
+    - '&c* Deal +5% damage to all enemies.'
+    - '&c* Take -5% damage from all enemies.'
+    - '&7&o(Requires all 4 phantom set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&c&lPhantom Hood"
+  lore:
+    - '&cThe fabled hood of the Phantom.'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&c* Deal +35% damage to all enemies.'
+    - '&c* Take +10% damage from all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&c&lPhantom Shroud"
+  lore:
+    - '&cThe legendary shroud of the Phantom.'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&c* Deal +35% damage to all enemies.'
+    - '&c* Take +10% damage from all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&c&lPhantom Robeset"
+  lore:
+    - '&cThe demonic robe of the Phantom.'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&c* Deal +35% damage to all enemies.'
+    - '&c* Take +10% damage from all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&c&lPhantom Sandals"
+  lore:
+    - '&cThe silent sandals of the Phantom.'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&c* Deal +35% damage to all enemies.'
+    - '&c* Take +10% damage from all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'

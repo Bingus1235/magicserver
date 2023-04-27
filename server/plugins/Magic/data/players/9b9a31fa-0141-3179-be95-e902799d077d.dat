@@ -1,0 +1,19 @@
+id: 9b9a31fa-0141-3179-be95-e902799d077d
+name: TRAV21
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 196.10826850905994,65.0,64.69560755699447,world,95.100006,1.8000002
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

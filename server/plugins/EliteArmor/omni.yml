@@ -1,0 +1,15 @@
+Material: "DIAMOND"
+Name: "&3&lOmni Crystal (&7{CHANCE}&3&l)"
+Lore:
+  - '&7Apply to any non-speciality'
+  - '&7weapon or armor piece to'
+  - '&7to transform it into an &3&nOmni Item:'
+  - '&7An item that acts as any'
+  - '&7unique armor set piece.'
+  - ''
+  - '&3EX:&7 1 Omni item, 3 Phantom items equipped'
+  - '&7would apply the Phantom Set Bonus to a player.'
+
+Applied-Lore:
+  - '&3&lOMNI SET BONUS'
+  - '&3* Acts as ANY Armor Set type/piece.'

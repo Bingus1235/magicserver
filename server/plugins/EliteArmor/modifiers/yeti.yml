@@ -1,0 +1,28 @@
+Material: "NETHER_STAR"
+Name: "&6&lArmor Crystal (&b&lYeti&6&l)"
+Lore:
+  - '&7Drag n'' Drop to apply this'
+  - '&7modifier to an item'
+  - ''
+  - '&6&lCrystal Bonus:'
+  - '&b&lYeti'
+  - ' &b&l*&b +2.5% Outgoing Damage'
+  - ' &b&l*&b -2.5% Incoming Damage'
+
+Effects:
+  - 'DAMAGE:2.5'
+  - 'REDUCTION:2.5'
+
+Added-Lore: "&6&lArmor Crystal (&b&lYeti&6&l)"
+
+Messages:
+  apply: "&a&l(!) &aYou have applied &6&lArmor Crystal (&b&lYeti&6&l) to your item"
+  fail: "&c&l(!) &cYou have failed to apply &6&lArmor Crystal (&b&lYeti&6&l) to your item"
+
+Settings:
+  armor-types:
+    - 'DIAMOND'
+    - 'LEATHER'
+    - 'HEROIC'
+  require-sets: []
+  both: false

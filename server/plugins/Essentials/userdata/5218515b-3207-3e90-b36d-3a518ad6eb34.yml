@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677715959972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677716573319
+  login: 1677716539165
+money: '0'
+last-account-name: Pro
+logoutlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 204.5
+  y: 53.200000047683716
+  z: 50.5
+  yaw: -4.650035858154297
+  pitch: -69.0
+lastlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 214.21001453580254
+  y: 129.28052936192256
+  z: 55.14395472946872
+  yaw: -31.05000877380371
+  pitch: 78.60001373291016
+mail:
+- legacy: false
+  read: false
+  message: to talk to someone but they are not online you can /mail them so they will
+    see it
+  sender-name: CoolBoi
+  sender-uuid: 2e5151b6-b198-3b75-8444-ebb9a21c8aa6
+  timestamp: 1682467211405
+  expire: 0

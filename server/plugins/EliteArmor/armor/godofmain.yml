@@ -1,0 +1,100 @@
+Apply-Message: "&3&lBlood &aset activated"
+Remove-Message: "&3&lBlood &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'DAMAGE:40'
+  - 'REDUCTION:-5'
+  - 'BLESS'
+  - 'DODGE:25:You dodge the attack'
+  - 'POTION:DAMAGE:2:APPLY'
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&3&lAncient&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &3&lBlood &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor!'
+
+Weapon:
+  effects:
+    - 'DAMAGE:15'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  data: 0
+  name: "&4&lBlood Sword"
+  lore:
+    - ''
+    - '&3&lBLOOD WEAPON BONUS'
+    - '&4* Do 15% more damage to all enemies.'
+    - '&4&o(Requires all 4 Blood set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&4&lBlood Skull"
+  lore:
+    - '&4&oThe blood of lost souls'
+    - '&4&oProtect you.'
+    - ''
+    - '&4&lBlood SET BONUS'
+    - '&7&o(Requires all 4 Blood items.)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&4&lBlood Ribs"
+  lore:
+    - '&34&lFull of Ribs from dead corpses'
+    - '&4&lCreating a Demonic Chestpalte'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&4&lBlood Greaves"
+  lore:
+    - '&3&oPowerful, martime greaves of'
+    - '&3&othe great Leviathan legend.'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&4&lBlood Flippers"
+  lore:
+    - '&3&oPowerful, martime flippers of'
+    - '&3&othe great Leviathan legend.'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'

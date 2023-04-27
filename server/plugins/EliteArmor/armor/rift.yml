@@ -1,0 +1,116 @@
+Apply-Message: "&5&l*** &d&lRIFT SET &a&lACTIVATED &5&l***"
+Remove-Message: "&5&l*** &d&lRift SET &c&lDE-ACTIVATED &5&l*** "
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'DAMAGE:10'
+  - 'REDUCTION:20'
+  - 'WARP:15'
+  - 'POTION:DAMAGE_RESISTANCE:1:APPLY'
+  - 'POTION:CONFUSION:1:ATTACK:VICTIM:5:10'
+
+Upgrade:
+  material: "PURPLE_DYE"
+  data: 0
+  name: "&e&lHeroic (&d&lRift&e&l) Upgrade"
+  lore:
+    - '&7Apply to any &d&lRift &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor'
+
+Weapon:
+  effects:
+    - 'DAMAGE:10'
+    - 'EXP:2'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  name: "&d&lRift Shattering Blade"
+  lore:
+    - '&d&oAncient blade used to rip open gates'
+    - '&d&ointo the worlds rift'
+    - ''
+    - '&d&lRIFT WEAPON BONUS'
+    - '&d* +10% PvP Damage'
+    - '&d* x2 EXP Multiplier'
+    - '&7&o(Requires all 4 rift set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&d&lRift Goggles"
+  lore:
+    - '&d&oGoggles used to avoid your eyes'
+    - '&d&ofrom being destroyed when entering'
+    - '&d&orift portals'
+    - ''
+    - '&d&lRIFT SET BONUS'
+    - '&d* +10% PvP Damage'
+    - '&d* -20% Incoming Damage'
+    - '&d* Nausea Attack Effect'
+    - '&d* Passive Damage Resistance'
+    - '&d* Passive Warp Ability'
+    - '&7&o(Requires all 4 rift items.)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&d&lDark Matter Chestplate"
+  lore:
+    - '&d&oChestplate made of materials found in the rift'
+    - '&c&oBe careful when using it'
+    - ''
+    - '&d&lRIFT SET BONUS'
+    - '&d* +10% PvP Damage'
+    - '&d* -20% Incoming Damage'
+    - '&d* Nausea Attack Effect'
+    - '&d* Passive Damage Resistance'
+    - '&d* Passive Warp Ability'
+    - '&7&o(Requires all 4 rift items.)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&d&lUnusual Leggings of the Rift"
+  lore:
+    - '&d&oThese leggings are liquid yet solid?'
+    - '&d&oMost unusual...'
+    - ''
+    - '&d&lRIFT SET BONUS'
+    - '&d* +10% PvP Damage'
+    - '&d* -20% Incoming Damage'
+    - '&d* Nausea Attack Effect'
+    - '&d* Passive Damage Resistance'
+    - '&d* Passive Warp Ability'
+    - '&7&o(Requires all 4 rift items.)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&d&lRift Warp Boots"
+  lore:
+    - '&d&oBoots made of sturdy materials to allow you'
+    - '&d&oto warp through the rift'
+    - ''
+    - '&d&lRIFT SET BONUS'
+    - '&d* +10% PvP Damage'
+    - '&d* -20% Incoming Damage'
+    - '&d* Nausea Attack Effect'
+    - '&d* Passive Damage Resistance'
+    - '&d* Passive Warp Ability'
+    - '&7&o(Requires all 4 rift items.)'

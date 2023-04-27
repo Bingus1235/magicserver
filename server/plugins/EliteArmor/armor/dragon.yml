@@ -1,0 +1,114 @@
+Apply-Message: "&e&lDragon &aset activated"
+Remove-Message: "&e&lDragon &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'DAMAGE:10'
+  - 'REDUCTION:15'
+  - 'DISABLE_ENCHANT:100:TRAP'
+  - 'DISABLE_ENCHANT:100:FROZEN'
+  - 'DISABLE_ENCHANT:100:ICEASPECT'
+  - 'DISABLE_ENCHANT:100:TITAN-TRAP'
+  - 'DISABLE_ENCHANT:60:SILENCE'
+  - 'DISABLE_GROUP:25:MASTERY'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&e&lDragon&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &e&lDragon &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor'
+
+Weapon:
+  effects:
+    - 'DAMAGE:10'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  name: "&e&lFire Breath"
+  lore:
+    - ''
+    - '&e&lDRAGON WEAPON BONUS'
+    - '&e* +10% PvP Damage'
+    - '&7&o(Requires all 4 dragon set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&e&lDecapitated Dragon Skull"
+  lore:
+    - '&e&oThe mythical helmet of a Slayer of Dragons.'
+    - ''
+    - '&e&lDRAGON SET BONUS'
+    - '&e* +15% PvP Damage'
+    - '&e* -15% Incoming Damage'
+    - '&e* Immune to Freezes'
+    - '&e* Mastery Enchant Reflex X'
+    - '&e* Negate 60% Enemy Silences'
+    - '&e* 25% Mastery Enchant Negation'
+    - '&7&o(Requires all 4 dragon items.)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&e&lFirey Chestplate of Dragons"
+  lore:
+    - '&e&oThe mythical chestplate of a Slayer of Dragons.'
+    - ''
+    - '&e&lDRAGON SET BONUS'
+    - '&e* +15% PvP Damage'
+    - '&e* -15% Incoming Damage'
+    - '&e* Immune to Freezes'
+    - '&e* Mastery Enchant Reflex X'
+    - '&e* Negate 60% Enemy Silences'
+    - '&e* 25% Mastery Enchant Negation'
+    - '&7&o(Requires all 4 dragon items.)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&e&lScorched Leggings of Dragons"
+  lore:
+    - '&e&oThe mythical leggings of a Slayer of Dragons.'
+    - ''
+    - '&e&lDRAGON SET BONUS'
+    - '&e* +15% PvP Damage'
+    - '&e* -15% Incoming Damage'
+    - '&e* Immune to Freezes'
+    - '&e* Mastery Enchant Reflex X'
+    - '&e* Negate 60% Enemy Silences'
+    - '&e* 25% Mastery Enchant Negation'
+    - '&7&o(Requires all 4 dragon items.)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&e&lDragon Slayer Battle Boots"
+  lore:
+    - '&e&oThe mythical boots of a Slayer of Dragons.'
+    - ''
+    - '&e&lDRAGON SET BONUS'
+    - '&e* +15% PvP Damage'
+    - '&e* -15% Incoming Damage'
+    - '&e* Immune to Freezes'
+    - '&e* Mastery Enchant Reflex X'
+    - '&e* Negate 60% Enemy Silences'
+    - '&e* 25% Mastery Enchant Negation'
+    - '&7&o(Requires all 4 dragon items.)'

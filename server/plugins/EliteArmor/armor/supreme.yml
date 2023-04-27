@@ -1,0 +1,124 @@
+Apply-Message: "&4&lSupreme &aset activated"
+Remove-Message: "&4&lSupreme &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'POTION:SPEED:4:APPLY'
+  - 'FALL_DAMAGE'
+  - 'HUNGER_LOSS'
+  - 'DAMAGE:15'
+  - 'BOW_REDUCTION:-10'
+  - 'FLY'
+  - 'POTION:SLOW:1:ATTACK:VICTIM:5:15'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&4&lSupreme&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &4&lSupreme &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor'
+
+Weapon:
+  effects:
+    - 'DAMAGE:20'
+    - 'REDUCTION:10'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:3'
+  material: "DIAMOND_SWORD"
+  name: "&4&lSupreme Fanny Pack"
+  lore:
+    - '&7They laughed at you, they'
+    - '&7told you a fanny pack is not'
+    - '&7a practical piece of clothing...'
+    - '&7now they will pay for their ignorance!'
+    - ''
+    - '&4&lSUPREME WEAPON BONUS'
+    - '&4* Deal +20% damage to all enemies.'
+    - '&4 Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 supreme set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&4&lSupreme Headgear"
+  lore:
+    - '&4&oA lightweight headpiece'
+    - '&4&ofit for take off.'
+    - ''
+    - '&4&lSUPREME SET BONUS'
+    - '&4* Gears IV'
+    - '&4* No Fall Damage / Food Loss'
+    - '&4* Deal +15% damage to all enemies'
+    - '&4* Enemy arrows deal 10% more damage to you.'
+    - '&4* +200% Clout'
+    - '&4* Chance to give Slowness I for 5s'
+    - '&4* when hitting an enemy from behind.'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&4&lSupreme Vest"
+  lore:
+    - '&4&oAn aerodynamic vest that'
+    - '&4&ois capable of sustaining flight.'
+    - ''
+    - '&4&lSUPREME SET BONUS'
+    - '&4* Gears IV'
+    - '&4* No Fall Damage / Food Loss'
+    - '&4* Deal +15% damage to all enemies'
+    - '&4* Enemy arrows deal 10% more damage to you.'
+    - '&4* +200% Clout'
+    - '&4* Chance to give Slowness I for 5s'
+    - '&4* when hitting an enemy from behind.'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&4&lSupreme Chaps"
+  lore:
+    - '&4&oLightweight and clout powered,'
+    - '&4&oprovides enough thrust to boost'
+    - '&4&oeven the most feeble into the skies.'
+    - ''
+    - '&4&lSUPREME SET BONUS'
+    - '&4* Gears IV'
+    - '&4* No Fall Damage / Food Loss'
+    - '&4* Deal +15% damage to all enemies'
+    - '&4* Enemy arrows deal 10% more damage to you.'
+    - '&4* +200% Clout'
+    - '&4* Chance to give Slowness I for 5s'
+    - '&4* when hitting an enemy from behind.'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&4&lSupreme Thruster Boots"
+  lore:
+    - '&4&oSupreme boots capable of'
+    - '&4&oconverting clout into flight.'
+    - ''
+    - '&4&lSUPREME SET BONUS'
+    - '&4* Gears IV'
+    - '&4* No Fall Damage / Food Loss'
+    - '&4* Deal +15% damage to all enemies'
+    - '&4* Enemy arrows deal 10% more damage to you.'
+    - '&4* +200% Clout'
+    - '&4* Chance to give Slowness I for 5s'
+    - '&4* when hitting an enemy from behind.'

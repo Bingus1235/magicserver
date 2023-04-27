@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682627261971
+  login: 1682627116891
+money: '9.3000000000000001'
+last-account-name: TRAV21
+logoutlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 281.72985580845886
+  y: 64.0
+  z: 670.1108361874948
+  yaw: 144.15020751953125
+  pitch: 4.6499924659729

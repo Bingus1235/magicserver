@@ -1,0 +1,32 @@
+Material: "NETHER_STAR"
+Name: "&6&lMulti Crystal &6&l(&d&lR&6&l, &4&lS&6&l)"
+Lore:
+  - '&7Drag n'' Drop to apply this'
+  - '&7modifier to an item'
+  - ''
+  - '&6&lCrystal Bonus:'
+  - '&d&lRift'
+  - ' &d&l*&d +2% Outgoing Damage'
+  - ' &d&l*&d -5% Incoming Damage'
+  - ' &d&l*&d +20% Passive Warp Ability'
+  - '&4&lSupreme'
+  - ' &4&l*&4 +3% Outgoing Damage'
+Effects:
+  - 'REDUCTION:5'
+  - 'WARP:5'
+  - 'DAMAGE:5'
+
+
+Added-Lore: "&6&lMulti Crystal &6&l(&d&lR&6&l, &4&lS&6&l)"
+
+Messages:
+  apply: "&a&l(!) &aYou have applied &6&lMulti Crystal &6&l(&d&lR&6&l, &4&lS&6&l) to your item"
+  fail: "&c&l(!) &cYou have failed to apply &6&lMulti Crystal &6&l(&d&lR&6&l, &4&lS&6&l) to your item"
+
+Settings:
+  armor-types:
+    - 'DIAMOND'
+    - 'LEATHER'
+    - 'HEROIC'
+  require-sets: []
+  both: false

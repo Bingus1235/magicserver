@@ -1,0 +1,101 @@
+Apply-Message: "&f&lYijki &aset activated"
+Remove-Message: "&f&lYijki &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'REDUCTION:30'
+  - 'SMITE:10:6:5:5'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&f&lYijki&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &f&lYijki &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor!'
+
+Weapon:
+  effects:
+    - 'DAMAGE:20'
+    - 'DISABLE_ENCHANT:100:ROT-AND-DECAY'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  name: "&f&lYijki's World Ender"
+  lore:
+    - '&7An absolutely massive, corrupted'
+    - '&7executioner blade imbued with'
+    - '&7highly destructive dark magic.'
+    - ''
+    - '&f&lYIJKI WEAPON BONUS'
+    - '&f* Deal +20% damage to all enemies.'
+    - '&f* Immune to Rot and Decay'
+    - '&7&o(Requires all 4 yijki set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&f&lMask of Yijki the Destroyer of Worlds"
+  lore:
+    - '&f&oThe god-mask of Yijki, imbued with'
+    - '&f&othe power of absolute destruction.'
+    - ''
+    - '&f&lYIJKI SET BONUS'
+    - '&f* Enemies deal 30% less damage to you.'
+    - '&f* Revenge of Yijki Passive Ability'
+    - '&7&o(Requires all four yijki items)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&f&lMantel of Yijki the Destroyer of Worlds"
+  lore:
+    - '&f&oThe forbidden mantel of Yijki,'
+    - '&fwoven from the dust of fallen stars.'
+    - ''
+    - '&f&lYIJKI SET BONUS'
+    - '&F* Enemies deal 30% less damage to you.'
+    - '&f* Revenge of Yijki Passive Ability'
+    - '&7&o(Requires all four yijki items)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&f&lRobeset of Yijki the Destroyer of Worlds"
+  lore:
+    - '&f&oThe fabled robes of Yijki,'
+    - '&f&ohalf angelic, half demonic.'
+    - ''
+    - '&f&lYIJKI SET BONUS'
+    - '&F* Enemies deal 30% less damage to you.'
+    - '&f* Revenge of Yijki Passive Ability'
+    - '&7&o(Requires all four yijki items)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&f&lFootwraps of Yijki the Destroyer of Worlds"
+  lore:
+    - '&f&oLight as a feather, heavy as'
+    - '&f&oa mountain - the footwraps of Yijki.'
+    - ''
+    - '&f&lYIJKI SET BONUS'
+    - '&F* Enemies deal 30% less damage to you.'
+    - '&f* Revenge of Yijki Passive Ability'
+    - '&7&o(Requires all four yijki items)'

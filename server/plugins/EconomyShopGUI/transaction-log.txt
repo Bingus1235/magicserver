@@ -1,0 +1,31 @@
+[2023-02-26 21:44:02] - CoolBoi bought 1 x Nether Star(Miscellaneous.13) for $400 with the buy screen.
+[2023-02-26 21:44:57] - CoolBoi bought 1 x Diamond(Ores.3) for $210 with the buy screen.
+[2023-02-26 21:45:48] - CoolBoi sold 3 x Diamond Block(Ores.4) for $1,488.39 with the sell screen.
+[2023-02-26 22:14:15] - CoolBoi bought 1 x Melon(Farming.7) for $9.45 with the buy screen.
+[2023-02-26 22:24:56] - CoolBoi bought 64 x Nether Star(Miscellaneous.13) for $78,065.28 with the buy screen.
+[2023-02-27 15:33:52] - CoolBoi sold 14 x Rotten Flesh(Mobs.12) for $7 with the sell screen.
+[2023-02-27 15:34:17] - CoolBoi bought 1 x Cake(Food.3) for $240.68 with the buy screen.
+[2023-02-27 15:34:39] - CoolBoi sold 1 x Rotten Flesh(Mobs.12) for $0.50 with the sell screen.
+[2023-02-27 15:43:19] - CoolBoi bought 17 x Cooked Chicken(Food.7) for $107.10 with the buy screen.
+[2023-04-25 16:54:29] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:04:41] - BingusGod sold 1 x Pork(Food.14) for $1.50 with the sell screen.
+[2023-04-25 17:04:50] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:04:50] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:04:52] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:04:53] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:07:18] - BingusGod bought 1 x Bone(Mobs.4) for $3 with the buy screen.
+[2023-04-25 17:09:23] - BingusGod bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:06] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:06] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:06] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:07] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:07] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:08] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:08] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:08] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:08] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:09] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:10] - fe4r bought 1 x Iron Ingot(Ores.10) for $21 with the buy screen.
+[2023-04-25 17:21:42] - fe4r bought 1 x Carrot Item(Farming.3) for $5 with the buy screen.
+[2023-04-25 17:21:42] - fe4r bought 1 x Carrot Item(Farming.3) for $5 with the buy screen.
+[2023-04-25 17:21:43] - fe4r bought 1 x Carrot Item(Farming.3) for $5 with the buy screen.
