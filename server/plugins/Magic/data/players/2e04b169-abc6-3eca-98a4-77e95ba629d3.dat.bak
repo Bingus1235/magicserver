@@ -1,0 +1,19 @@
+id: 2e04b169-abc6-3eca-98a4-77e95ba629d3
+name: Cole_duck
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 140.69999998807907,67.7531999805212,-106.30000001192093,world,346.35007,-7.3499928
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

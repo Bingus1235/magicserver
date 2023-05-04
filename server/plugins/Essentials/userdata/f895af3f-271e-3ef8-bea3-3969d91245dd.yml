@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683231115942
+  login: 1683230991900
+money: '0'
+last-account-name: HarisPVPS
+logoutlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 359.65789179339407
+  y: 80.0
+  z: 153.710859887257
+  yaw: -323.32421875
+  pitch: 11.192143440246582
+lastlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 211.3758182382948
+  y: 63.0
+  z: 56.37261479469174
+  yaw: 330.9384765625
+  pitch: 11.292201042175293

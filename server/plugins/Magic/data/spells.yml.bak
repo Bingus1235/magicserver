@@ -68,7 +68,7 @@ lockpick:
   cast_count: 0
   last_cast: 0
 push|4:
-  cast_count: 31
+  cast_count: 0
   last_cast: 0
 flare|2:
   cast_count: 0
@@ -92,7 +92,7 @@ magichat:
   cast_count: 0
   last_cast: 0
 homing:
-  cast_count: 4
+  cast_count: 0
   last_cast: 0
 superring:
   cast_count: 0
@@ -218,7 +218,7 @@ curse|2:
   cast_count: 0
   last_cast: 0
 poison:
-  cast_count: 3
+  cast_count: 0
   last_cast: 0
 spawnershop:
   cast_count: 0
@@ -230,7 +230,7 @@ column:
   cast_count: 0
   last_cast: 0
 railgun:
-  cast_count: 1
+  cast_count: 0
   last_cast: 0
 meteor:
   cast_count: 0
@@ -248,7 +248,7 @@ familiar:
   cast_count: 0
   last_cast: 0
 frost|2:
-  cast_count: 1
+  cast_count: 0
   last_cast: 0
 frost|3:
   cast_count: 0
@@ -260,7 +260,7 @@ blast:
   cast_count: 0
   last_cast: 0
 pull:
-  cast_count: 8
+  cast_count: 0
   last_cast: 0
 torture:
   cast_count: 0
@@ -293,7 +293,7 @@ glider:
   cast_count: 0
   last_cast: 0
 fling:
-  cast_count: 18
+  cast_count: 0
   last_cast: 0
 bomb:
   cast_count: 0
@@ -386,7 +386,7 @@ itemshop:
   cast_count: 0
   last_cast: 0
 shell:
-  cast_count: 9
+  cast_count: 0
   last_cast: 0
 recurse:
   cast_count: 0
@@ -425,7 +425,7 @@ blast|4:
   cast_count: 0
   last_cast: 0
 blink:
-  cast_count: 4
+  cast_count: 0
   last_cast: 0
 paste:
   cast_count: 0
@@ -440,7 +440,7 @@ wave:
   cast_count: 0
   last_cast: 0
 lava:
-  cast_count: 2
+  cast_count: 0
   last_cast: 0
 icbm:
   cast_count: 0
@@ -521,7 +521,7 @@ bubble|2:
   cast_count: 0
   last_cast: 0
 missile|4:
-  cast_count: 2
+  cast_count: 0
   last_cast: 0
 wither:
   cast_count: 0
@@ -641,7 +641,7 @@ warpunlock:
   cast_count: 0
   last_cast: 0
 curse:
-  cast_count: 9
+  cast_count: 0
   last_cast: 0
 sticky:
   cast_count: 0
@@ -740,7 +740,7 @@ fireball:
   cast_count: 0
   last_cast: 0
 blaster:
-  cast_count: 1
+  cast_count: 61
   last_cast: 0
 ledger:
   cast_count: 0
@@ -770,7 +770,7 @@ kill:
   cast_count: 0
   last_cast: 0
 gatling:
-  cast_count: 1
+  cast_count: 0
   last_cast: 0
 fxdemo:
   cast_count: 0
@@ -818,7 +818,7 @@ kill|2:
   cast_count: 0
   last_cast: 0
 arrow:
-  cast_count: 2
+  cast_count: 0
   last_cast: 0
 kill|3:
   cast_count: 0
@@ -899,7 +899,7 @@ stun|2:
   cast_count: 0
   last_cast: 0
 broom:
-  cast_count: 2
+  cast_count: 0
   last_cast: 0
 stun|3:
   cast_count: 0
@@ -935,7 +935,7 @@ rainbow:
   cast_count: 0
   last_cast: 0
 blob:
-  cast_count: 4
+  cast_count: 0
   last_cast: 0
 superblob:
   cast_count: 0

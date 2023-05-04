@@ -11,34 +11,41 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1682627196571
+  lastteleport: 1682946996275
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1682627230272
-  login: 1682627058580
-money: '26.0'
+  logout: 1683233017260
+  login: 1683232810271
+money: '6.06'
 last-account-name: Hilo
 logoutlocation:
   world: 3047bdb2-8885-4539-8be7-4ad60cf64768
   world-name: world
-  x: 168.69999998807907
-  y: 94.0
-  z: 164.93362868023382
-  yaw: 184.34971618652344
-  pitch: -0.150009423494339
+  x: 51.98837266866339
+  y: 77.0
+  z: -117.00048641439975
+  yaw: -64.8001937866211
+  pitch: 39.749996185302734
 lastlocation:
   world: 3047bdb2-8885-4539-8be7-4ad60cf64768
   world-name: world
   x: 211.5
   y: 63.0
   z: 52.5
-  yaw: -5.700000286102295
-  pitch: 2.4000003337860107
+  yaw: 0.0
+  pitch: 0.0
 mail:
 - legacy: false
-  read: false
+  read: true
+  message: i don't know who killed u but do u still want an alliance
+  sender-name: BingusGod
+  sender-uuid: 41cbc1a2-8904-31af-b473-0a0542d84b78
+  timestamp: 1682717521438
+  expire: 0
+- legacy: false
+  read: true
   message: kill j
   sender-name: BingusGod
   sender-uuid: 41cbc1a2-8904-31af-b473-0a0542d84b78

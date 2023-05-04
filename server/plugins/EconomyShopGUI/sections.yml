@@ -103,7 +103,7 @@ ShopSections:
     slot: 4
 
   Z_EverythingElse:
-    enable: false
+    enable: true
     material: "BEDROCK"
     displayname: "Z_EverythingElse"
     slot: 41

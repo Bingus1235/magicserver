@@ -29,3 +29,55 @@
 [2023-04-25 17:21:42] - fe4r bought 1 x Carrot Item(Farming.3) for $5 with the buy screen.
 [2023-04-25 17:21:42] - fe4r bought 1 x Carrot Item(Farming.3) for $5 with the buy screen.
 [2023-04-25 17:21:43] - fe4r bought 1 x Carrot Item(Farming.3) for $5 with the buy screen.
+[2023-04-29 21:51:24] - BingusBoi bought 10 x Cooked Chicken(Food.7) for $63 with the buy screen.
+[2023-04-29 21:58:06] - BingusBoi sold 64 x Coal(Ores.1) for $336 with the sell screen.
+[2023-04-29 21:58:10] - BingusBoi sold 64 x Coal(Ores.1) for $336 with the sell screen.
+[2023-04-29 21:58:16] - BingusBoi sold 10 x Coal(Ores.1) for $52.50 with the sell screen.
+[2023-04-29 21:59:57] - BingusBoi sold 24 x Coal(Ores.1) for $126 with the sell screen.
+[2023-04-29 22:10:09] - BingusBoi sold 48 x Leaves(Decoration.7) for $36 with the sell screen.
+[2023-04-29 22:12:07] - BingusBoi sold 64 x Leaves(Decoration.7) for $48 with the sell screen.
+[2023-04-29 22:12:13] - BingusBoi sold 16 x Leaves(Decoration.7) for $12 with the sell screen.
+[2023-04-29 22:12:29] - BingusBoi sold 64 x Leaves(Decoration.4) for $48 with the sell screen.
+[2023-04-29 22:12:34] - BingusBoi sold 17 x Leaves(Decoration.4) for $12.75 with the sell screen.
+[2023-04-29 22:17:21] - BingusBoi bought 1 x Shears(Z_EverythingElse.217) for $44.10 with the buy screen.
+[2023-04-29 22:17:22] - BingusBoi bought 1 x Shears(Z_EverythingElse.217) for $44.10 with the buy screen.
+[2023-04-30 19:20:54] - BingusBoi sold 64 x Leaves(Decoration.7) for $48 with the sell screen.
+[2023-04-30 19:20:55] - BingusBoi sold 64 x Leaves(Decoration.7) for $48 with the sell screen.
+[2023-04-30 19:20:55] - BingusBoi sold 64 x Leaves(Decoration.7) for $48 with the sell screen.
+[2023-04-30 19:20:55] - BingusBoi sold 64 x Leaves(Decoration.7) for $48 with the sell screen.
+[2023-04-30 19:20:55] - BingusBoi sold 64 x Leaves(Decoration.7) for $48 with the sell screen.
+[2023-04-30 19:20:56] - BingusBoi sold 64 x Leaves(Decoration.7) for $48 with the sell screen.
+[2023-04-30 19:20:56] - BingusBoi sold 9 x Leaves(Decoration.7) for $6.75 with the sell screen.
+[2023-04-30 19:21:12] - BingusBoi sold 33 x Leaves(Decoration.4) for $24.75 with the sell screen.
+[2023-04-30 19:21:13] - BingusBoi sold 14 x Leaves(Decoration.4) for $10.50 with the sell screen.
+[2023-04-30 19:24:07] - BingusBoi bought 1 x Diamond Boots(Z_EverythingElse.67) for $882 with the buy screen.
+[2023-04-30 19:31:06] - BingusBoi sold 48 x Coal(Ores.1) for $252 with the sell screen.
+[2023-04-30 19:53:15] - BingusBoi sold 13 x Ink Sack(Dyes.12) for $2.34 with the sell screen.
+[2023-04-30 19:53:18] - BingusBoi bought 64 x Ink Sack(Dyes.11) for $67.20 with the buy screen.
+[2023-04-30 19:53:26] - BingusBoi sold 64 x Ink Sack(Dyes.11) for $17.28 with the sell screen.
+[2023-04-30 19:53:27] - BingusBoi sold 13 x Ink Sack(Dyes.11) for $3.51 with the sell screen.
+[2023-04-30 19:55:34] - BingusBoi bought 1 x Bucket(Z_EverythingElse.31) for $66.15 with the buy screen.
+[2023-04-30 19:57:52] - fe4r sold 274 x Cobblestone(Blocks.16) for $46.58 with the sell screen.
+[2023-04-30 20:00:36] - BingusBoi bought 9 x Cooked Mutton(Food.8) for $56.70 with the buy screen.
+[2023-05-01 23:36:01] - BingusBoi sold 1 x Arrow(Mobs.1) for $0.57 with the sell screen.
+[2023-05-01 23:36:01] - BingusBoi sold 1 x Arrow(Mobs.1) for $0.57 with the sell screen.
+[2023-05-01 23:36:42] - BingusBoi sold 7 x Raw Beef(Food.11) for $14 with the sell screen.
+[2023-05-01 23:36:54] - BingusBoi sold 1 x Stone(Blocks.29) for $0.18 with the sell screen.
+[2023-05-01 23:37:03] - BingusBoi sold 3 x Pork(Food.14) for $4.50 with the sell screen.
+[2023-05-01 23:37:11] - BingusBoi sold 1 x Spider Eye(Mobs.13) for $3 with the sell screen.
+[2023-05-01 23:37:18] - BingusBoi sold 3 x Rabbit Hide(Mobs.11) for $6 with the sell screen.
+[2023-05-01 23:43:28] - BingusBoi bought 1 x Apple(Food.1) for $10 with the buy screen.
+[2023-05-02 00:17:54] - BingusBoi bought 8 x Obsidian(Blocks.35) for $250 with the buy screen.
+[2023-05-02 13:05:54] - BingusBoi sold 14 x Coal(Ores.1) for $73.50 with the sell screen.
+[2023-05-02 13:28:13] - Jeff sold 3 x Dirt(Blocks.21) for $0.60 with the sell screen.
+[2023-05-02 13:29:35] - Jeff sold 1 x Torch(Z_EverythingElse.230) for $1.42 with the sell screen.
+[2023-05-02 13:40:53] - Jeff sold 2 x Sapling(Decoration.13) for $1.50 with the sell screen.
+[2023-05-02 13:51:12] - fe4r sold 189 x Cobblestone(Blocks.16) for $32.13 with the sell screen.
+[2023-05-02 14:57:41] - fe4r sold 1 x Emerald(Ores.5) for $35.56 with the sell screen.
+[2023-05-03 13:04:28] - Hilo sold 1 x Coal(Ores.1) for $5.25 with the sell screen.
+[2023-05-03 13:17:09] - BingusBoi bought 4 x Iron Ingot(Ores.10) for $299.32 with the buy screen.
+[2023-05-03 13:17:12] - BingusBoi bought 1 x Emerald(Ores.5) for $142.23 with the buy screen.
+[2023-05-04 00:51:35] - BingusBoi sold 52 x Sand(Blocks.42) for $78 with the sell screen.
+[2023-05-04 00:51:48] - BingusBoi sold 64 x Coal(Ores.1) for $336 with the sell screen.
+[2023-05-04 00:51:51] - BingusBoi sold 47 x Coal(Ores.1) for $246.75 with the sell screen.
+[2023-05-04 00:51:55] - BingusBoi bought 1 x Emerald(Ores.5) for $142.23 with the buy screen.

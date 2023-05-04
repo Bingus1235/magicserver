@@ -1,0 +1,19 @@
+id: 37dbcd67-cd3c-3632-b617-639c0894f503
+name: DeevDeer
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 154.69999998807907,64.0,46.966697311879955,world,61.050007,28.2
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

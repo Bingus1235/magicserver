@@ -622,7 +622,7 @@ Enchanting:
     buy: 2856.41
     sell: 243.11
     enchantments:
-    - "DAMAGE_ALL:5"
+    - " _ALL:5"
   18:
     material: "ENCHANTED_BOOK"
     buy: 589.56
@@ -2084,8 +2084,8 @@ Z_EverythingElse:
     sell: 110.41
   77:
     material: "DRAGON_EGG"
-    buy: 5000
-    sell: 1250
+    buy: 50000
+    sell: 2550
   78:
     material: "EMERALD_ORE"
     buy: 150
