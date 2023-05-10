@@ -1,0 +1,33 @@
+Material: "NETHER_STAR"
+Name: "&6&lMulti Crystal &6&l(&5&lD&6&l, &f&lM&6&l)"
+Lore:
+  - '&7Drag n'' Drop to apply this'
+  - '&7modifier to an item'
+  - ''
+  - '&6&lCrystal Bonus:'
+  - '&5&lDimensional Traveler'
+  - ' &5&l*&5 +7.5% Outgoing Damage'
+  - ' &5&l*&5 +20% Dimensional Shift Ability'
+  - '&f&lYijki'
+  - ' &f&l*&f -5% Incoming Damage'
+  - ' &f&l*&f +20% Revenge of Yijki Passive Ability'
+
+Effects:
+  - 'DAMAGE:7.5'
+  - 'REDUCTION:5'
+  - 'SUFFOCATE:.6:3:3'
+  - 'SMITE:2:6:5:5'
+
+Added-Lore: "&6&lMulti Crystal &6&l(&5&lD&6&l, &f&lM&6&l)"
+
+Messages:
+  apply: "&a&l(!) &aYou have applied &6&lMulti Crystal &6&l(&5&lD&6&l, &f&lM&6&l) to your item"
+  fail: "&c&l(!) &cYou have failed to apply &6&lMulti Crystal &6&l(&5&lD&6&l, &f&lM&6&l) to your item"
+
+Settings:
+  armor-types:
+    - 'DIAMOND'
+    - 'LEATHER'
+    - 'HEROIC'
+  require-sets: []
+  both: false

@@ -1,0 +1,33 @@
+Material: "NETHER_STAR"
+Name: "&6&lMulti Crystal &6&l(&f&lM&6&l, &a&lR&6&l)"
+Lore:
+  - '&7Drag n'' Drop to apply this'
+  - '&7modifier to an item'
+  - ''
+  - '&6&lCrystal Bonus:'
+  - '&f&lYijki'
+  - ' &f&l*&f -5% Incoming Damage'
+  - ' &f&l*&f +20% Revenge of Yijki Passive Ability'
+  - '&a&lRanger'
+  - ' &a&l*&a -5% Incoming Damage'
+  - ' &a&l*&a +6% Outgoing Bow Damage'
+
+Effects:
+  - 'REDUCTION:10'
+  - 'SMITE:2:6:5:5'
+  - 'BOW_DAMAGE:6'
+
+
+Added-Lore: "&6&lMulti Crystal &6&l(&f&lM&6&l, &a&lR&6&l)"
+
+Messages:
+  apply: "&a&l(!) &aYou have applied &6&lMulti Crystal &6&l(&f&lM&6&l, &a&lR&6&l) to your item"
+  fail: "&c&l(!) &cYou have failed to apply &6&lMulti Crystal &6&l(&f&lM&6&l, &a&lR&6&l) to your item"
+
+Settings:
+  armor-types:
+    - 'DIAMOND'
+    - 'LEATHER'
+    - 'HEROIC'
+  require-sets: []
+  both: false

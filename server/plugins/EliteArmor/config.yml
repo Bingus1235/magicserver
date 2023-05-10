@@ -1,0 +1,38 @@
+Settings:
+  reset-health: true # reset the health to 20 on quit
+
+Support:
+  worldguard: true
+  factions: true
+
+Heroic:
+  lore: "&4This is stronger than diamond" # This is the lore that will be added when you make
+  # an armor into heroic
+  reduction: 70 # Damage reduction %
+  damage: 70 # Damage Increase % (Weapons)
+  durability: 70 # Damage Durability Damage Cancel Chance
+  default-color: "255,0,0" # Default coloring for the armor, RGB values
+
+Modifiers:
+  apply-multiple: false
+
+Heroic-Upgrade:
+  material: "YELLOW_DYE"
+  name: "&6&lHeroic Upgrade (&e{CHANCE}%&6&l)"
+  lore:
+    - '&7Apply to any non-speciality'
+    - '&7diamond weapon or armor piece'
+    - '&7to imbue it with the power'
+    - '&7of Heroic Armor!'
+    - ''
+    - '&7This will increase the items''s base'
+    - '&7stats and convert it to gold material.'
+
+Crystal-Extractor:
+  material: "GHAST_TEAR"
+  name: "&6&lCrystal Extractor"
+  lore:
+    - '&7Removes 1 random crystal from'
+    - '&7an armor piece and converts it'
+    - '&7into its applicable form:'
+    - '&f&l * &6&lArmor Crystal (&f{CHANCE}% Success&6&l)'

@@ -1,0 +1,19 @@
+id: a4c8f60e-b60a-3c4f-9ca7-d103ec2b2125
+name: Jake
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 255.05967113998912,65.0,69.5517831753635,world,213.33604,13.193634
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

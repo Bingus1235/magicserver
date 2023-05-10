@@ -1,0 +1,19 @@
+id: dc943466-24b3-3b03-9bd5-0b2e767dc9f9
+name: Barbie
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 160.43846281979316,68.0,48.79583495435893,world,-94.80001,8.250001
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

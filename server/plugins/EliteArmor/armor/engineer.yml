@@ -1,0 +1,102 @@
+Apply-Message: "&6&lEngineer &aset activated"
+Remove-Message: "&6&lEngineer &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'REDUCTION:35'
+  - 'DISABLE_ENCHANT:100:TELEBLOCK'
+  - 'POTION:SPEED:4:APPLY'
+  - 'BOMBER:3:4:5000'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&6&lEngineer&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &6&lEngineer &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor'
+
+Weapon:
+  effects:
+    - 'DAMAGE:15'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  name: "&6&lEngineer Steamed Sword"
+  lore:
+    - ''
+    - '&6&lENGINEER WEAPON BONUS'
+    - '&6* Deal +15% damage to all enemies.'
+    - '&6&o(Requires all 4 engineer set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&6&lEngineer Face Mask"
+  lore:
+    - '&6&oNext-gen Gnometech Helmet for demolition specialists.'
+    - ''
+    - '&6&lENGINEER SET BONUS'
+    - '&6* Enemies deal 35% less damage to you.'
+    - '&6* Immune to Teleblock'
+    - '&6* Gears IV'
+    - '&6* B-2 Bomber Passive Ability'
+    - '&7&o(Requires all four engineer items)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&6&lEngineer Explosion-Proof Vest"
+  lore:
+    - '&6&oNext-gen Gnometech Chestplate for demolition specialists.'
+    - ''
+    - '&6&lENGINEER SET BONUS'
+    - '&6* Enemies deal 35% less damage to you.'
+    - '&6* Immune to Teleblock'
+    - '&6* Gears IV'
+    - '&6* B-2 Bomber Passive Ability'
+    - '&7&o(Requires all four engineer items)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&6&lEngineer Protective Chaps"
+  lore:
+    - '&6&oNext-gen Gnometech Leggings for demolition specialists.'
+    - ''
+    - '&6&lENGINEER SET BONUS'
+    - '&6* Enemies deal 35% less damage to you.'
+    - '&6* Immune to Teleblock'
+    - '&6* Gears IV'
+    - '&6* B-2 Bomber Passive Ability'
+    - '&7&o(Requires all four engineer items)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&6&lEngineer Steel Toed Boots"
+  lore:
+    - '&6&oNext-gen Gnometech Boots for demolition specialists.'
+    - ''
+    - '&6&lENGINEER SET BONUS'
+    - '&6* Enemies deal 35% less damage to you.'
+    - '&6* Immune to Teleblock'
+    - '&6* Gears IV'
+    - '&6* B-2 Bomber Passive Ability'
+    - '&7&o(Requires all four engineer items)'

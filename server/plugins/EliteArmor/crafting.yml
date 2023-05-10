@@ -1,0 +1,42 @@
+Recipes:
+  phantom_chestplate:
+    ingredients:
+    - D:MATERIAL:DIAMOND
+    - C:MATERIAL:DIAMOND_CHESTPLATE
+    - Y:MATERIAL:DIAMOND_BLOCK
+    - F:MATERIAL:BEACON
+    recipe:
+    - D D
+    - FCF
+    - YRY
+    result: phantom:C
+  phantom_boots:
+    ingredients:
+    - D:MATERIAL:DIAMOND_BLOCK
+    - R:MATERIAL:REDSTONE_BLOCK
+    recipe:
+    - '   '
+    - R R
+    - D D
+    result: phantom:B
+  phantom_helmet:
+    ingredients:
+    - D:MATERIAL:DIAMOND_BLOCK
+    - R:MATERIAL:REDSTONE
+    - I:MATERIAL:IRON_SWORD
+    - S:MATERIAL:DIAMOND_HELMET
+    recipe:
+    - ISI
+    - D D
+    - R R
+    result: phantom:H
+  phantom_leggings:
+    ingredients:
+    - E:MATERIAL:EMERALD_BLOCK
+    - D:MATERIAL:DIAMOND_BLOCK
+    - R:MATERIAL:REDSTONE_BLOCK
+    recipe:
+    - DED
+    - D D
+    - R R
+    result: phantom:L

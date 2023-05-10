@@ -1,0 +1,102 @@
+Apply-Message: "&5&lTraveler &aset activated"
+Remove-Message: "&5&lTraveler &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'DAMAGE:30'
+  - 'SUFFOCATE:3:3:3'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&5&lTraveler&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &5&lTraveler &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor!'
+
+Weapon:
+  effects:
+    - 'DAMAGE:10'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_AXE"
+  name: "&5&lTime Splitter"
+  lore:
+    - '&7The mythic, fabled magic axe'
+    - '&7with the impossible power to'
+    - '&7cut the very fabric of time.'
+    - ''
+    - '&5&lTRAVELER WEAPON BONUS'
+    - '&5* Deal +10% damage to all enemies.'
+    - '&7&o(Requires all 4 traveler set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:3'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&5&lInterdimensional Hood"
+  lore:
+    - '&7A hood that fades in and out of'
+    - '&7existance inside the dimension of the owner.'
+    - ''
+    - '&5&lTRAVELER SET BONUS'
+    - '&5* You deal 30% more damage.'
+    - '&5* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveler items)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:3'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&5&lChestplate of Ad Infinitum"
+  lore:
+    - '&7A cross-dimensional chestplate'
+    - '&7with impossibly infinite density'
+    - '&7and defensive properties.'
+    - ''
+    - '&5&lTRAVELER SET BONUS'
+    - '&5* You deal 30% more damage.'
+    - '&5* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveler items)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:3'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&5&lTimeless Robes"
+  lore:
+    - '&7Robes that evade the 4th dimension and'
+    - '&7are in a state of constant existence'
+    - '&7across all planets of reality.'
+    - ''
+    - '&5&lTRAVELER SET BONUS'
+    - '&5* You deal 30% more damage.'
+    - '&5* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveler items)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:3'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&5&lWarp Speed Sandals"
+  lore:
+    - '&7Sandals capable of breaking through'
+    - '&7dimensional barriers to allow the barer'
+    - '&7to preform impossible feats.'
+    - ''
+    - '&5&lTRAVELER SET BONUS'
+    - '&5* You deal 30% more damage.'
+    - '&5* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveler items)'

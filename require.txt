@@ -1,0 +1,3 @@
+richard: x:60 z:-120
+jay: x:57 z:197
+rishik: x:-170 z: 200

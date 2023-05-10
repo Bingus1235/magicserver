@@ -1,0 +1,19 @@
+id: 72ccacf9-97f1-324b-80d2-a2880b065db5
+name: Rowan
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 118.30000001192093,65.0,100.69999998807907,world,-118.05001,67.8
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

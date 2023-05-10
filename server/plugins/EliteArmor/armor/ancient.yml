@@ -1,0 +1,102 @@
+Apply-Message: "&3&lAncient &aset activated"
+Remove-Message: "&3&lAncient &cset de-activated"
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+  - 'DAMAGE:35'
+  - 'REDUCTION:15'
+  - 'BLESS'
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&3&lAncient&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &3&lAncient &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor!'
+
+Weapon:
+  effects:
+    - 'REDUCTION:5'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  data: 0
+  name: "&3&lAncient Sword"
+  lore:
+    - ''
+    - '&3&lANCIENT WEAPON BONUS'
+    - '&3* Take -5% damage from all enemies.'
+    - '&7&o(Requires all 4 phantom set items.)'
+
+Helmet:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_HELMET"
+  data: 0
+  name: "&3&lAncient Cap"
+  lore:
+    - '&3&oPowerful, martime cap of'
+    - '&3&othe great Leviathan legend.'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'
+Chestplate:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_CHESTPLATE"
+  data: 0
+  name: "&3&lAncient Curiass"
+  lore:
+    - '&3&oPowerful, martime curiass of'
+    - '&3&othe great Leviathan legend.'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'
+Leggings:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_LEGGINGS"
+  data: 0
+  name: "&3&lAncient Greaves"
+  lore:
+    - '&3&oPowerful, martime greaves of'
+    - '&3&othe great Leviathan legend.'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&3&lAncient Flippers"
+  lore:
+    - '&3&oPowerful, martime flippers of'
+    - '&3&othe great Leviathan legend.'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'

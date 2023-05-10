@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "44639a26-fff2-3ada-a55c-f025a4296e84",
+    "name": "Cool402298754",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "74ec06ab-1202-3e65-a9a8-b1fd40a0b5be",
+    "name": "BingusBoi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2e5151b6-b198-3b75-8444-ebb9a21c8aa6",
+    "name": "CoolBoi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "41cbc1a2-8904-31af-b473-0a0542d84b78",
+    "name": "BingusGod",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

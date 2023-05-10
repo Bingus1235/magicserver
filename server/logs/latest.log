@@ -1,0 +1,701 @@
+[17:20:08] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:20:08] [Server thread/INFO]: Loading properties
+[17:20:08] [Server thread/INFO]: Default game type: SURVIVAL
+[17:20:08] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[17:20:08] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[17:20:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:20:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:20:08] [Server thread/INFO]: Debug logging is disabled
+[17:20:08] [Server thread/INFO]: Data value allowed items: 
+[17:20:08] [Server thread/INFO]: Generating keypair
+[17:20:08] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[17:20:08] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[17:20:08] [Server thread/INFO]: Using default channel type
+[17:20:09] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:20:09] [Server thread/INFO]: [AdvancedAntiXray] Loading AdvancedAntiXray v1.5.2
+[17:20:09] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[17:20:09] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[17:20:09] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[17:20:09] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.8.8
+[17:20:09] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.62
+[17:20:09] [Server thread/INFO]: [ChatPerm] Loading ChatPerm v1.0
+[17:20:09] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[17:20:09] [Server thread/INFO]: [EliteArmor] Loading EliteArmor v6.6.5
+[17:20:09] [Server thread/INFO]: [AntiWorldFly] Loading AntiWorldFly v2.5.2
+[17:20:09] [Server thread/INFO]: [AntiWorldFly] Backing up and loading configuration files...
+[17:20:09] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[17:20:09] [Server thread/INFO]: [TModsServerAddons_Ranks] Loading TModsServerAddons_Ranks v1.14
+[17:20:09] [Server thread/INFO]: [Clans] Loading Clans v0.4.5
+[17:20:09] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.7
+[17:20:09] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.6.0-beta2-b2453
+[17:20:09] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v5.2.4
+[17:20:09] [Server thread/INFO]: [Magic] Loading Magic v5.5.6
+[17:20:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.62
+[17:20:09] [Server thread/INFO]:         __    
+[17:20:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.62
+[17:20:09] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+[17:20:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:20:09] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:20:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:20:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:20:10] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 820ms)
+[17:20:10] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[17:20:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:20:10] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:20:10] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[17:20:10] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[17:20:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:20:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:20:10] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[17:20:10] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[17:20:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:20:10] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:20:10] [Server thread/INFO]: Preparing level "world"
+[17:20:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:20:10] [Server thread/INFO]: Mob Spawn Range: 4
+[17:20:10] [Server thread/INFO]: Anti X-Ray: true
+[17:20:10] [Server thread/INFO]: 	Engine Mode: 2
+[17:20:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:20:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:20:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:20:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:20:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:20:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:20:10] [Server thread/INFO]: Random Lighting Updates: false
+[17:20:10] [Server thread/INFO]: Structure Info Saving: true
+[17:20:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:20:10] [Server thread/INFO]: Max Entity Collisions: 8
+[17:20:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:20:10] [Server thread/INFO]: Max TNT Explosions: 100
+[17:20:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:20:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:20:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:20:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:20:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:20:10] [Server thread/INFO]: View Distance: 4
+[17:20:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:20:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:20:10] [Server thread/INFO]: Clear tick list: false
+[17:20:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:20:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:20:10] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:20:10] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:20:10] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:20:10] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:20:10] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:20:10] [Server thread/INFO]: Fix TNT cannons: false
+[17:20:10] [Server thread/INFO]: Water over lava flow speed: 5
+[17:20:10] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:20:10] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:20:10] [Server thread/INFO]: World async lighting: false
+[17:20:10] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:20:10] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:20:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:20:10] [Server thread/INFO]: Mob Spawn Range: 4
+[17:20:10] [Server thread/INFO]: Anti X-Ray: true
+[17:20:10] [Server thread/INFO]: 	Engine Mode: 2
+[17:20:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:20:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:20:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:20:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:20:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:20:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:20:10] [Server thread/INFO]: Random Lighting Updates: false
+[17:20:10] [Server thread/INFO]: Structure Info Saving: true
+[17:20:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:20:10] [Server thread/INFO]: Max Entity Collisions: 8
+[17:20:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:20:10] [Server thread/INFO]: Max TNT Explosions: 100
+[17:20:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:20:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:20:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:20:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:20:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:20:10] [Server thread/INFO]: View Distance: 4
+[17:20:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:20:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:20:10] [Server thread/INFO]: Clear tick list: false
+[17:20:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:20:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:20:10] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:20:10] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:20:10] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:20:10] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:20:10] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:20:10] [Server thread/INFO]: Fix TNT cannons: false
+[17:20:10] [Server thread/INFO]: Water over lava flow speed: 5
+[17:20:10] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:20:10] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:20:10] [Server thread/INFO]: World async lighting: false
+[17:20:10] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:20:10] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:20:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:20:10] [Server thread/INFO]: Mob Spawn Range: 4
+[17:20:10] [Server thread/INFO]: Anti X-Ray: true
+[17:20:10] [Server thread/INFO]: 	Engine Mode: 2
+[17:20:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:20:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:20:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:20:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:20:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:20:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:20:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:20:10] [Server thread/INFO]: Random Lighting Updates: false
+[17:20:10] [Server thread/INFO]: Structure Info Saving: true
+[17:20:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:20:10] [Server thread/INFO]: Max Entity Collisions: 8
+[17:20:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:20:10] [Server thread/INFO]: Max TNT Explosions: 100
+[17:20:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:20:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:20:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:20:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:20:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:20:10] [Server thread/INFO]: View Distance: 4
+[17:20:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:20:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:20:10] [Server thread/INFO]: Clear tick list: false
+[17:20:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:20:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:20:10] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:20:10] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:20:10] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:20:10] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:20:10] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:20:10] [Server thread/INFO]: Fix TNT cannons: false
+[17:20:10] [Server thread/INFO]: Water over lava flow speed: 5
+[17:20:10] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:20:10] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:20:10] [Server thread/INFO]: World async lighting: false
+[17:20:10] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:20:10] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:20:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5224491913714006000)
+[17:20:11] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5224491913714006000)
+[17:20:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5224491913714006000)
+[17:20:11] [Server thread/INFO]: [AdvancedAntiXray] Enabling AdvancedAntiXray v1.5.2
+[17:20:11] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[17:20:11] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+[17:20:11] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[17:20:11] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[17:20:11] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[17:20:11] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[17:20:12] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[17:20:12] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[17:20:12] [Server thread/INFO]: [NoCheatPlus] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+[17:20:12] [Server thread/INFO]: [ChatPerm] Enabling ChatPerm v1.0
+[17:20:12] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[17:20:12] [Server thread/INFO]: [ClearLag] Using version-adapter: LegacyVersionAdapter
+[17:20:12] [Server thread/INFO]: [ClearLag] Loading modules...
+[17:20:12] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[17:20:12] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[17:20:12] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[17:20:12] [Thread-6/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.8]...
+[17:20:12] [Server thread/INFO]: [EliteArmor] Enabling EliteArmor v6.6.5
+[17:20:12] [Thread-6/INFO]: [ClearLag] No updates found!
+[17:20:12] [Server thread/INFO]: [AntiWorldFly] Enabling AntiWorldFly v2.5.2
+[17:20:12] [Server thread/INFO]: [AntiWorldFly] Registering listeners...
+[17:20:12] [Server thread/INFO]: com.hm.antiworldfly.listener.ToggleGlide@3aba6740
+[17:20:12] [Server thread/INFO]: null
+[17:20:12] [Server thread/INFO]: null
+[17:20:12] [Server thread/ERROR]: [AntiWorldFly] Plugin AntiWorldFly v2.5.2 has failed to register events for class com.hm.antiworldfly.listener.ToggleGlide because org/bukkit/event/entity/EntityToggleGlideEvent does not exist.
+[17:20:12] [Thread-7/INFO]: [AntiWorldFly] Checking for plugin update...
+[17:20:12] [Server thread/INFO]: [AntiWorldFly] Plugin successfully enabled and ready to run! Took 9ms.
+[17:20:12] [Server thread/INFO]: [TModsServerAddons_Ranks] Enabling TModsServerAddons_Ranks v1.14
+[17:20:12] [Server thread/INFO]: [Clans] Enabling Clans v0.4.5
+[17:20:12] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.7
+[17:20:12] [Server thread/INFO]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[17:20:12] [Thread-8/INFO]: UUID of player RKV5 is 61f01376-7053-3bc1-a4b8-6b2e1ffe6e74
+[17:20:12] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[17:20:12] [Server thread/INFO]: No kits found to migrate.
+[17:20:12] [Server thread/INFO]: Loaded 853 items from items.csv.
+[17:20:12] [Server thread/INFO]: Using locale en_US
+[17:20:12] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[17:20:12] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[17:20:12] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[17:20:12] [Server thread/INFO]: Using Vault based permissions (LuckPerms)
+[17:20:12] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[17:20:13] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[17:20:13] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[17:20:13] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[17:20:13] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspace/magicserver/server/plugins/Essentials/spawn.yml'
+[17:20:13] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[17:20:13] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v5.2.4
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Sections.yml has been found!
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Successfully hooked into Vault
+[17:20:13] [Server thread/WARN]: [EconomyShopGUI] Completed loading '1' economy provider(s) for all 16 shop sections.
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.8.8...
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Spawner provider set to DEFAULT in config
+[17:20:13] [Server thread/WARN]: [EconomyShopGUI] This item material is not supported in this minecraft version.
+[17:20:13] [Server thread/WARN]: [EconomyShopGUI] Item path in config.yml: spawner-break-tools.3
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Using plugin default spawners...
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
+[17:20:13] [Server thread/WARN]: [EconomyShopGUI] Could not get the enchantment of the item.
+[17:20:13] [Server thread/WARN]: [EconomyShopGUI] Item path in shops.yml: Enchanting.17
+[17:20:13] [Server thread/INFO]: [EconomyShopGUI] Initialized - Took 219ms to complete
+[17:20:13] [Server thread/INFO]: [Magic] Enabling Magic v5.5.6
+[17:20:13] [Server thread/INFO]: [Magic] EffectLib initialized
+[17:20:13] [Server thread/INFO]: [Magic] Loading config.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/config.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Loading messages.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/messages.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Loading materials.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/materials.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Loading spells.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/spells.defaults.yml
+[17:20:13] [Thread-9/INFO]: UUID of player LoPo is 87611528-9176-3688-87e3-7bd8cea79903
+[17:20:13] [Server thread/INFO]: [Magic] Loading enchanting.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/enchanting.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Loading wands.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/wands.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Loading crafting.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/crafting.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Loading mobs.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/mobs.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Loading items.yml
+[17:20:13] [Server thread/INFO]: [Magic]  Based on defaults defaults/items.defaults.yml
+[17:20:13] [Server thread/INFO]: [Magic] Wand enchanting is enabled
+[17:20:13] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[17:20:13] [Server thread/INFO]: [Magic] Wand anvil organizing is enabled
+[17:20:13] [Server thread/INFO]: [Magic] Skin-based custom icons enabled
+[17:20:13] [Server thread/INFO]: [Magic] Loaded 37 items
+[17:20:13] [Server thread/INFO]: [Magic] Loaded 11 mob templates
+[17:20:13] [Server thread/INFO]: [Magic] Loaded 358 spells
+[17:20:14] [Server thread/INFO]: [Magic] Loaded 14 enchanting paths
+[17:20:14] [Server thread/INFO]: [Magic] Loaded 104 wands
+[17:20:14] [Server thread/INFO]: [Magic] Loaded 20 crafting recipes
+[17:20:14] [Server thread/INFO]: [Magic] BlockPhysics not found- install BlockPhysics for physics-based block effects
+[17:20:14] [Server thread/INFO]: [Magic] LibsDisguises not found
+[17:20:14] [Server thread/INFO]: [Magic] Integrated with Vault, virtual economy and descriptive item names available
+[17:20:14] [Server thread/INFO]: [Magic] Integrating with Essentials for Recall warps
+[17:20:14] [Server thread/INFO]: [Magic] dtlTraders not found, will not integrate.
+[17:20:14] [Server thread/INFO]: [Magic] Factions not found, will not integrate.
+[17:20:14] [Server thread/INFO]: [Magic] WorldGuard not found, region protection and pvp checks will not be used.
+[17:20:14] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[17:20:14] [Server thread/INFO]: [Magic] Lockette not found, will not integrate.
+[17:20:14] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
+[17:20:14] [Server thread/INFO]: [Magic] NoCheatPlus found, adding exemption handlers.
+[17:20:14] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[17:20:14] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
+[17:20:14] [Server thread/INFO]: [Magic] Activated MCStats
+[17:20:14] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_HOE
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for rabbitboots
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardboots
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticeboots
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for rocketboots
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardhelmet
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticehelmet
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardleggings
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticeleggings
+[17:20:14] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_AXE
+[17:20:14] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SWORD
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for battle
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for divinghelmet
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for goggles
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for blaster
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for magichat
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for invisiblecloak
+[17:20:14] [Server thread/INFO]: [Magic] Disabled default crafting recipe for WOOD_HOE
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for default
+[17:20:14] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SPADE
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for broomstick
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardchestplate
+[17:20:14] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticechestplate
+[17:20:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:20:14] [Server thread/INFO]: Done (3.826s)! For help, type "help" or "?"
+[17:20:14] [Server thread/INFO]: Timings Reset
+[17:20:14] [Craft Scheduler Thread - 0/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[17:20:14] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.5.6-b49)!
+[17:20:14] [Craft Scheduler Thread - 3/INFO]: §6Fetching version information...
+[17:20:14] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[17:20:14] [Craft Scheduler Thread - 5/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[17:20:14] [Craft Scheduler Thread - 5/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[17:20:14] [Craft Scheduler Thread - 5/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[17:20:14] [Craft Scheduler Thread - 5/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[17:20:14] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[17:20:14] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[17:20:14] [Craft Scheduler Thread - 2/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[17:20:14] [Craft Scheduler Thread - 2/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[17:20:14] [Server thread/INFO]: RKV5[/192.168.150.74:56222] logged in with entity id 456 at ([world]214.30000001192093, 59.0, -195.6999999880791)
+[17:20:14] [Server thread/INFO]: LoPo[/192.168.150.74:56230] logged in with entity id 457 at ([world]214.6940164943066, 78.16610926093821, 285.30000001192093)
+[17:20:14] [Server thread/WARN]: java.lang.NoClassDefFoundError: com/earth2me/essentials/ItemDb
+[17:20:14] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:555)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:458)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:452)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:451)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:193)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:98)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:589)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+[17:20:14] [Server thread/WARN]: 	at com.elmakers.mine.bukkit.magic.MagicController$3.run(MagicController.java:839)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[17:20:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+[17:20:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+[17:20:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+[17:20:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[17:20:14] [Server thread/WARN]: Caused by: java.lang.ClassNotFoundException: com.earth2me.essentials.ItemDb
+[17:20:14] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+[17:20:14] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:589)
+[17:20:14] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+[17:20:14] [Server thread/WARN]: 	... 22 more
+[17:20:14] [Server thread/INFO]: [NBTAPI] Found Spigot: v1_8_R3! Trying to find NMS support
+[17:20:14] [Server thread/INFO]: [NBTAPI] NMS support 'MC1_8_R3' loaded!
+[17:20:14] [Server thread/INFO]: [NBTAPI] Found Gson: class com.google.gson.Gson
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded ancient.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded cobsidian.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded godofmain.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded og-phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded traveller.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded yijki.yml successfully!
+[17:20:14] [Thread-10/WARN]: [NBTAPI] The NBT-API located at 'package net.splodgebox.elitearmor.pluginapi.item.nbt' seems to be outdated!
+[17:20:14] [Thread-10/WARN]: [NBTAPI] Current Version: '2.11.1' Newest Version: 2.11.2'
+[17:20:14] [Thread-10/WARN]: [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: dragon_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: engineer_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: koth_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: phantom_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: ranger_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: rift_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: spectrum_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_supreme.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_yeti.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: supreme_yijki.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_dragon.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_engineer.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_koth.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_phantom.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_ranger.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_rift.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_spectrum.yml successfully!
+[17:20:14] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_supreme.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_traveler.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_yeti.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: traveler_yijki.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_dragon.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_engineer.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_koth.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_phantom.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_ranger.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_rift.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_spectrum.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_supreme.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_traveler.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_yeti.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yeti_yijki.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_dragon.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_engineer.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_koth.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_phantom.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_ranger.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_rift.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_spectrum.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_supreme.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_traveler.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_yeti.yml successfully!
+[17:20:15] [Server thread/INFO]: EliteArmor: Loaded Modifiers: yijki_yijki.yml successfully!
+[17:20:15] [Server thread/INFO]: [Magic] Loading lost wand data
+[17:20:15] [Server thread/INFO]: [Magic] Loaded 0 lost wands
+[17:20:15] [Server thread/INFO]: [Magic] Loading automata data
+[17:20:15] [Server thread/INFO]: [Magic] Loaded 0 automata
+[17:20:15] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
+[17:20:15] [Server thread/INFO]: [Magic] Loaded 0 image maps
+[17:20:15] [Server thread/INFO]: [Magic] Finished loading data.
+[17:20:15] [Thread-11/INFO]: UUID of player anderson is e3c94c04-9e9d-3315-a4b6-855fe10105d5
+[17:20:15] [Server thread/INFO]: anderson[/192.168.72.9:56246] logged in with entity id 596 at ([world]215.03141210849893, 63.0, 53.5013414839559)
+[17:20:21] [Thread-12/INFO]: UUID of player Hilo is 82f09418-502e-32fd-a2b4-7723a23e6f41
+[17:20:21] [Server thread/INFO]: Hilo[/192.168.72.9:41644] logged in with entity id 597 at ([world]147.0292787422521, 69.0, -50.990742458513665)
+[17:20:22] [Craft Scheduler Thread - 6/INFO]: [AuthMe] The user LoPo has 4 accounts:
+[17:20:22] [Craft Scheduler Thread - 6/INFO]: [AuthMe] §7§aHilo§7, §aLoPo§7, §aRKV5§7, bingusboi.
+[17:20:22] [Craft Scheduler Thread - 6/INFO]: [AuthMe] LoPo logged in 192.168.150.74
+[17:20:25] [Craft Scheduler Thread - 6/INFO]: [AuthMe] The user Hilo has 2 accounts:
+[17:20:25] [Craft Scheduler Thread - 6/INFO]: [AuthMe] §7fe4r, §aHilo§7.
+[17:20:25] [Craft Scheduler Thread - 6/INFO]: [AuthMe] Hilo logged in 192.168.72.9
+[17:20:30] [Thread-13/INFO]: UUID of player Jeff is 33e1b1f6-8e21-3c2e-bf04-2dcff0503ec1
+[17:20:30] [Server thread/INFO]: Jeff[/192.168.252.201:37198] logged in with entity id 721 at ([world]199.05200138882324, 89.0, -196.22039032731922)
+[17:20:32] [Thread-14/INFO]: UUID of player RKV5 is 61f01376-7053-3bc1-a4b8-6b2e1ffe6e74
+[17:20:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@781bbfaa[id=61f01376-7053-3bc1-a4b8-6b2e1ffe6e74,name=RKV5,properties={textures=[com.mojang.authlib.properties.Property@3ba8a24a], isEaglerPlayer=[com.mojang.authlib.properties.Property@3df48f6f]},legacy=false] (/192.168.150.74:37202): §4The same username is already playing on the server!
+[17:20:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@781bbfaa[id=61f01376-7053-3bc1-a4b8-6b2e1ffe6e74,name=RKV5,properties={textures=[com.mojang.authlib.properties.Property@3ba8a24a], isEaglerPlayer=[com.mojang.authlib.properties.Property@3df48f6f]},legacy=false] (/192.168.150.74:37202) lost connection: §4The same username is already playing on the server!
+[17:20:42] [Thread-15/INFO]: UUID of player icetrae11 is f7f3c8b0-5ee2-32bf-b92f-df043774c5c2
+[17:20:42] [Server thread/INFO]: icetrae11[/192.168.72.9:52570] logged in with entity id 935 at ([world]155.33163078065735, 68.0, -32.76548443854263)
+[17:20:42] [Thread-16/INFO]: UUID of player RKV5 is 61f01376-7053-3bc1-a4b8-6b2e1ffe6e74
+[17:20:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@a797520[id=61f01376-7053-3bc1-a4b8-6b2e1ffe6e74,name=RKV5,properties={textures=[com.mojang.authlib.properties.Property@46b8d0d2], isEaglerPlayer=[com.mojang.authlib.properties.Property@2bc2dd23]},legacy=false] (/192.168.252.201:52574): §4The same username is already playing on the server!
+[17:20:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@a797520[id=61f01376-7053-3bc1-a4b8-6b2e1ffe6e74,name=RKV5,properties={textures=[com.mojang.authlib.properties.Property@46b8d0d2], isEaglerPlayer=[com.mojang.authlib.properties.Property@2bc2dd23]},legacy=false] (/192.168.252.201:52574) lost connection: §4The same username is already playing on the server!
+[17:20:43] [Thread-17/INFO]: UUID of player fe4r is 34216f39-b4ea-31c0-865d-876d1688dbe2
+[17:20:43] [Server thread/INFO]: fe4r[/192.168.252.201:52582] logged in with entity id 1002 at ([world]145.50591779146507, 70.0, -58.474475266503426)
+[17:20:44] [Server thread/INFO]: RKV5 lost connection: §4Login timeout exceeded, you have been kicked from the server, please try again!
+[17:20:44] [Server thread/INFO]: RKV5 left the game.
+[17:20:44] [Server thread/WARN]: handleDisconnection() called twice
+[17:20:44] [Server thread/INFO]: Jeff lost connection: Disconnected
+[17:20:44] [Server thread/INFO]: Jeff left the game.
+[17:20:44] [Server thread/INFO]: anderson lost connection: §4Login timeout exceeded, you have been kicked from the server, please try again!
+[17:20:44] [Server thread/INFO]: anderson left the game.
+[17:20:44] [Server thread/WARN]: handleDisconnection() called twice
+[17:20:47] [Craft Scheduler Thread - 4/INFO]: [AuthMe] The user icetrae11 has 3 accounts:
+[17:20:47] [Craft Scheduler Thread - 4/INFO]: [AuthMe] §7§afe4r§7, §aHilo§7, §aicetrae11§7.
+[17:20:47] [Craft Scheduler Thread - 4/INFO]: [AuthMe] icetrae11 logged in 192.168.72.9
+[17:20:51] [Server thread/INFO]: CONSOLE issued server command: /whois whois RKV5
+[17:20:51] [Server thread/INFO]: Error: Player not found.
+[17:20:52] [Async Chat Thread - #0/INFO]: [Player] icetrae11: I didn;t cuss
+[17:20:55] [Craft Scheduler Thread - 4/INFO]: [NoCheatPlus] fe4r failed SurvivalFly: tried to move: 211.00, 63.71, 52.00 -> 211.00, 64.00, 52.00, d=0.29 (data_reset+vdistrel+vdistsb). VL 415.
+[17:20:55] [Craft Scheduler Thread - 4/INFO]: [NoCheatPlus] fe4r failed SurvivalFly: tried to move: 211.00, 63.24, 52.00 -> 211.00, 63.71, 52.00, d=0.46 (data_reset+vdistrel+vdistsb). VL 1544.
+[17:20:55] [Server thread/INFO]: fe4r lost connection: Kicked for flying (or related)
+[17:20:55] [Server thread/INFO]: fe4r left the game.
+[17:20:55] [Server thread/WARN]: handleDisconnection() called twice
+[17:20:55] [Craft Scheduler Thread - 4/INFO]: [NoCheatPlus] (CONSOLE) Kicked fe4r : Kicked for flying (or related)
+[17:20:58] [Server thread/INFO]: CONSOLE issued server command: /whois RKV5
+[17:20:58] [Server thread/INFO]: Error: Player not found.
+[17:20:58] [Thread-18/INFO]: UUID of player fe4r is 34216f39-b4ea-31c0-865d-876d1688dbe2
+[17:20:58] [Server thread/INFO]: fe4r[/192.168.150.74:34480] logged in with entity id 1307 at ([world]211.0, 63.163440617796624, 52.0)
+[17:21:01] [Server thread/INFO]: CONSOLE issued server command: /list 
+[17:21:01] [Server thread/INFO]: There are 4 out of maximum 15 players online.
+[17:21:01] [Server thread/INFO]: player: fe4r, Hilo, icetrae11, LoPo
+[17:21:04] [Craft Scheduler Thread - 3/INFO]: [AuthMe] The user fe4r has 4 accounts:
+[17:21:04] [Craft Scheduler Thread - 3/INFO]: [AuthMe] §7§afe4r§7, §aLoPo§7, rkv5, bingusboi.
+[17:21:04] [Craft Scheduler Thread - 3/INFO]: [AuthMe] fe4r logged in 192.168.150.74
+[17:21:06] [Async Chat Thread - #0/INFO]: [Player] icetrae11: richard whisper coords
+[17:21:07] [Thread-19/INFO]: UUID of player RKV5 is 61f01376-7053-3bc1-a4b8-6b2e1ffe6e74
+[17:21:07] [Server thread/INFO]: RKV5[/192.168.150.74:34486] logged in with entity id 1438 at ([world]214.30000001192093, 59.0, -195.6999999880791)
+[17:21:17] [Async Chat Thread - #0/INFO]: [TesticleSmasher] Hilo <- He will smash your pp: i'm still at spawn
+[17:21:18] [Craft Scheduler Thread - 4/INFO]: [AuthMe] The user RKV5 has 4 accounts:
+[17:21:18] [Craft Scheduler Thread - 4/INFO]: [AuthMe] §7§afe4r§7, §aLoPo§7, §aRKV5§7, bingusboi.
+[17:21:18] [Craft Scheduler Thread - 4/INFO]: [AuthMe] RKV5 logged in 192.168.150.74
+[17:21:23] [Server thread/INFO]: icetrae11 issued server command: /spawn
+[17:21:24] [Async Chat Thread - #0/INFO]: [Player] RKV5: where are you jay
+[17:21:29] [Async Chat Thread - #0/INFO]: [Player] icetrae11: I cant get to spawnw
+[17:21:33] [Async Chat Thread - #0/INFO]: [Player] icetrae11: send me coords
+[17:21:40] [Async Chat Thread - #0/INFO]: [Player] icetrae11: I dont know the coord of spawn
+[17:21:48] [Async Chat Thread - #0/INFO]: [Player] icetrae11: quickly
+[17:21:51] [Async Chat Thread - #0/INFO]: [Player] icetrae11: richard
+[17:22:04] [Thread-20/INFO]: UUID of player olimo is e6f6a94c-2cc3-3f51-a9e1-8245c7f11b28
+[17:22:04] [Server thread/INFO]: olimo[/192.168.72.9:38926] logged in with entity id 1660 at ([world]208.9524656290977, 63.0, 51.018520918254474)
+[17:22:06] [Thread-21/INFO]: UUID of player BingusBoi is 74ec06ab-1202-3e65-a9a8-b1fd40a0b5be
+[17:22:06] [Server thread/INFO]: BingusBoi[/192.168.150.74:38940] logged in with entity id 1802 at ([world]-87.69999998807904, 64.0, 100.34339205493903)
+[17:22:20] [Async Chat Thread - #0/INFO]: [Player] icetrae11: I will avenge you richard
+[17:22:23] [Async Chat Thread - #0/INFO]: [Unverified] olimo: can i play now
+[17:22:28] [Async Chat Thread - #0/INFO]: [Player] icetrae11: tadiw
+[17:22:33] [Craft Scheduler Thread - 4/INFO]: [AuthMe] The user BingusBoi has 4 accounts:
+[17:22:33] [Craft Scheduler Thread - 4/INFO]: [AuthMe] §7§afe4r§7, §aLoPo§7, §aRKV5§7, §aBingusBoi§7.
+[17:22:33] [Craft Scheduler Thread - 4/INFO]: [AuthMe] BingusBoi logged in 192.168.150.74
+[17:22:34] [Server thread/INFO]: olimo lost connection: §4Login timeout exceeded, you have been kicked from the server, please try again!
+[17:22:34] [Server thread/INFO]: olimo left the game.
+[17:22:34] [Server thread/WARN]: handleDisconnection() called twice
+[17:22:43] [Thread-22/INFO]: UUID of player anderson is e3c94c04-9e9d-3315-a4b6-855fe10105d5
+[17:22:43] [Server thread/INFO]: anderson[/192.168.72.9:51616] logged in with entity id 1993 at ([world]215.03141210849893, 63.0, 53.5013414839559)
+[17:22:48] [Thread-23/INFO]: UUID of player olimo is e6f6a94c-2cc3-3f51-a9e1-8245c7f11b28
+[17:22:48] [Server thread/INFO]: olimo[/192.168.72.9:47332] logged in with entity id 2044 at ([world]208.9960352747766, 63.0, 51.490158881260136)
+[17:22:53] [Async Chat Thread - #0/INFO]: [Unverified] olimo: wa
+[17:23:13] [Server thread/INFO]: anderson lost connection: §4Login timeout exceeded, you have been kicked from the server, please try again!
+[17:23:13] [Server thread/INFO]: anderson left the game.
+[17:23:13] [Server thread/WARN]: handleDisconnection() called twice
+[17:23:18] [Server thread/INFO]: olimo lost connection: §4Login timeout exceeded, you have been kicked from the server, please try again!
+[17:23:18] [Server thread/INFO]: olimo left the game.
+[17:23:18] [Server thread/WARN]: handleDisconnection() called twice
+[17:23:22] [Thread-24/INFO]: UUID of player olimo is e6f6a94c-2cc3-3f51-a9e1-8245c7f11b28
+[17:23:22] [Server thread/INFO]: olimo[/192.168.150.74:44758] logged in with entity id 2389 at ([world]208.23619764730617, 63.0, 51.05576358946814)
+[17:23:39] [Server thread/INFO]: [AuthMe] olimo registered 192.168.150.74
+[17:23:39] [Craft Scheduler Thread - 6/INFO]: [AuthMe] The user olimo has 5 accounts:
+[17:23:39] [Craft Scheduler Thread - 6/INFO]: [AuthMe] §7§afe4r§7, §aLoPo§7, §aRKV5§7, §aBingusBoi§7, §aolimo§7.
+[17:23:39] [Craft Scheduler Thread - 6/INFO]: [AuthMe] olimo logged in 192.168.150.74
+[17:23:45] [Thread-25/INFO]: UUID of player anderson is e3c94c04-9e9d-3315-a4b6-855fe10105d5
+[17:23:45] [Server thread/INFO]: anderson[/192.168.72.9:55752] logged in with entity id 2598 at ([world]215.03141210849893, 63.0, 53.5013414839559)
+[17:23:54] [Server thread/INFO]: [AuthMe] anderson registered 192.168.72.9
+[17:23:54] [Craft Scheduler Thread - 7/INFO]: [AuthMe] The user anderson has 3 accounts:
+[17:23:54] [Craft Scheduler Thread - 7/INFO]: [AuthMe] §7§aHilo§7, §aicetrae11§7, §aanderson§7.
+[17:23:54] [Craft Scheduler Thread - 7/INFO]: [AuthMe] anderson logged in 192.168.72.9
+[17:23:58] [Async Chat Thread - #1/INFO]: [Unverified] olimo: FINALLY
+[17:24:00] [Server thread/INFO]: fe4r lost connection: Disconnected
+[17:24:00] [Server thread/INFO]: fe4r left the game.
+[17:24:05] [Server thread/INFO]: BingusBoi lost connection: Disconnected
+[17:24:05] [Server thread/INFO]: BingusBoi left the game.
+[17:24:09] [Server thread/INFO]: LoPo lost connection: Disconnected
+[17:24:09] [Server thread/INFO]: LoPo left the game.
+[17:24:10] [Server thread/INFO]: Hilo lost connection: Disconnected
+[17:24:10] [Server thread/INFO]: Hilo left the game.
+[17:24:13] [Server thread/INFO]: olimo lost connection: Disconnected
+[17:24:13] [Server thread/INFO]: olimo left the game.
+[17:24:13] [Server thread/INFO]: anderson lost connection: Disconnected
+[17:24:13] [Server thread/INFO]: anderson left the game.
+[17:24:13] [Async Chat Thread - #1/INFO]: [Player] icetrae11: jayanth tadi
+[17:24:13] [Server thread/INFO]: RKV5 lost connection: Disconnected
+[17:24:13] [Server thread/INFO]: RKV5 left the game.
+[17:24:19] [Server thread/INFO]: icetrae11 lost connection: Disconnected
+[17:24:19] [Server thread/INFO]: icetrae11 left the game.
+[17:35:41] [Thread-27/INFO]: UUID of player fe4r is 34216f39-b4ea-31c0-865d-876d1688dbe2
+[17:35:41] [Server thread/INFO]: fe4r[/192.168.72.9:59350] logged in with entity id 2800 at ([world]210.7346935403519, 63.827117314324575, 52.78600041201396)
+[17:35:49] [Craft Scheduler Thread - 10/INFO]: [AuthMe] fe4r used the wrong password
+[17:35:49] [Server thread/INFO]: fe4r lost connection: §cWrong password!
+[17:35:49] [Server thread/INFO]: fe4r left the game.
+[17:35:49] [Server thread/WARN]: handleDisconnection() called twice
+[17:35:53] [Thread-28/INFO]: UUID of player fe4r is 34216f39-b4ea-31c0-865d-876d1688dbe2
+[17:35:53] [Server thread/INFO]: fe4r[/192.168.252.201:41038] logged in with entity id 2844 at ([world]210.7346935403519, 63.0, 52.78600041201396)
+[17:36:02] [Craft Scheduler Thread - 11/INFO]: [AuthMe] fe4r used the wrong password
+[17:36:02] [Server thread/INFO]: fe4r lost connection: §cWrong password!
+[17:36:02] [Server thread/INFO]: fe4r left the game.
+[17:36:02] [Server thread/WARN]: handleDisconnection() called twice
+[17:36:10] [Thread-29/INFO]: UUID of player fe4r is 34216f39-b4ea-31c0-865d-876d1688dbe2
+[17:36:10] [Server thread/INFO]: fe4r[/192.168.150.74:55030] logged in with entity id 2845 at ([world]210.7346935403519, 63.0, 52.78600041201396)
+[17:36:17] [Craft Scheduler Thread - 12/INFO]: [AuthMe] fe4r used the wrong password
+[17:36:17] [Server thread/INFO]: fe4r lost connection: §cWrong password!
+[17:36:17] [Server thread/INFO]: fe4r left the game.
+[17:36:17] [Server thread/WARN]: handleDisconnection() called twice
+[17:36:21] [Thread-30/INFO]: UUID of player fe4r is 34216f39-b4ea-31c0-865d-876d1688dbe2
+[17:36:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4d78467a[id=34216f39-b4ea-31c0-865d-876d1688dbe2,name=fe4r,properties={textures=[com.mojang.authlib.properties.Property@76e84627], isEaglerPlayer=[com.mojang.authlib.properties.Property@1998a8ae]},legacy=false] (/192.168.150.74:47364): Too fast re-login, try with a little delay.
+[17:36:21] [Craft Scheduler Thread - 3/INFO]: [NoCheatPlus] fe4r failed Relog: relogs too fast. VL 1.
+[17:36:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d78467a[id=34216f39-b4ea-31c0-865d-876d1688dbe2,name=fe4r,properties={textures=[com.mojang.authlib.properties.Property@76e84627], isEaglerPlayer=[com.mojang.authlib.properties.Property@1998a8ae]},legacy=false] (/192.168.150.74:47364) lost connection: Too fast re-login, try with a little delay.
+[17:36:27] [Thread-31/INFO]: UUID of player fe4r is 34216f39-b4ea-31c0-865d-876d1688dbe2
+[17:36:27] [Server thread/INFO]: fe4r[/192.168.252.201:47368] logged in with entity id 2847 at ([world]210.7346935403519, 63.0, 52.78600041201396)
+[17:36:38] [Craft Scheduler Thread - 10/INFO]: [AuthMe] fe4r used the wrong password
+[17:36:38] [Server thread/INFO]: fe4r lost connection: §cWrong password!
+[17:36:38] [Server thread/INFO]: fe4r left the game.
+[17:36:38] [Server thread/WARN]: handleDisconnection() called twice
+[17:52:49] [Thread-1/INFO]: Stopping server
+[17:52:49] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:81) [patched_1.8.8.jar:git-PaperSpigot-445]

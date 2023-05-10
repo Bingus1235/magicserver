@@ -1,0 +1,32 @@
+SET:
+  INVALID: '&c&l(!) &cThis is not a valid set name!'
+  INVALID_TYPE: |-
+    &c&l(!) &cThat is an invalid type;
+    &7Valid Types: H,C,L,B,W,A or armor name ie. Helmet
+UPGRADE:
+  MORE_THAN_ONE: '&c&l(!) &cYou cannot apply more than one upgrade at a time!'
+  NOT_CORRECT_ARMOR: '&c&l(!) &cYou cannot apply this upgrade to this armor piece,
+    please apply it to the correct armor set'
+  FAILED: '&c&l(!) &cYou have failed to apply this upgrade!'
+  APPLIED: '&a&l(!) &aYou have successfully applied this upgrade to this item!'
+  HEROIC:
+    IS_SET_PIECE: '&c&l(!) &cYou cannot apply heroic upgrade to special armor sets!'
+  ALREADY_HEROIC: '&c&l(!) &cThis armor piece is already upgraded to heroic!'
+CRATE:
+  INVALID: '&C&L(!) &cThat is not a valid crate!'
+MOD:
+  INVALID: '&c&l(!) &cThis is not a valid modifier!'
+  MORE_THAN_ONE: '&c&l(!) &cYou cannot apply more than one upgrade at a time!'
+  ALREADY_APPLIED: '&c&l(!) &cThis item already has a modifier applied!'
+  WRONG_TYPE: '&c&l(!) &cYou cannot apply this modifier to this type of armor!'
+  IS_NOT_CORRECT_SET: '&c&l(!) &cThis is not the correct armor set type that this
+    modifier applies to!'
+  IS_SET: '&c&l(!) &cYou cannot apply this modifier to armor that is a special set
+    piece!'
+  MAX: '&c&l(!) &cYou already have the max amount of modifiers applied to your item!'
+  EXTRACTOR:
+    NO_MODS: '&c&l(!) &cThere are not modifiers on this item!'
+CRAFTING:
+  INVALID_RECIPE: '&c&l(!) &cThat is an invalid recipe, check your crafting.yml!'
+  ADD_INGREDIENT: '&a&l(!) &aYou have successfully added a new ingredient!'
+INVENTORY_FULL: '&c&l(!) &cYou cannot do this since their inventory is full!'

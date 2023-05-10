@@ -1,0 +1,84 @@
+Apply-Message: "This is compressed Obsidian wearing this will not do anything"
+
+
+Required-Items: 4
+
+Sounds:
+  apply: "ENTITY_BAT_TAKEOFF"
+  remove: "ENTITY_HORSE_SADDLE"
+
+Effects:
+
+Upgrade:
+  material: "YELLOW_DYE"
+  data: 0
+  name: "&6&lHeroic (&3&lAncient&6&l) Upgrade"
+  lore:
+    - '&7Apply to any &3&lAncient &7armor'
+    - '&7for a &6%percent%% &7chance to imbue it'
+    - '&7with the power of Heroic Armor!'
+
+Weapon:
+  effects:
+    - 'REDUCTION:5'
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:5'
+  material: "DIAMOND_SWORD"
+  data: 0
+  name: "&3&lAncient Sword"
+  lore:
+    - ''
+    - '&3&lANCIENT WEAPON BONUS'
+    - '&3* Take -5% damage from all enemies.'
+    - '&7&o(Requires all 4 phantom set items.)'
+
+Helmet:
+  enchants:
+    - 'DURABILITY:5'
+  material: "LEATHER_HELMET"
+  data: 0
+  name: "Overcharged Compressed Obsidian"
+  lore:
+    - 'Almighty full Compressed Obsidian'
+    - 'The Best'
+    - "CANNOT BE SOLD TO SHOP"
+    - 'NOT USEFUL TO WEAR'
+Chestplate:
+  enchants:
+    - 'DURABILITY:5'
+  material: "LEATHER_CHESTPLATE"
+  data: 0
+  name: "Solid Compressed Obsidian"
+  lore:
+    - 'One of the Best Obsidians'
+    - '2nd to Best'
+    - 'CANNOT BE SOLD TO SHOP'
+    - 'NOT USEFUL TO WEAR'
+Leggings:
+  enchants:
+    - 'DURABILITY:5'
+  material: "LEATHER_LEGGINGS"
+  data: 0
+  name: "Over Compressed Obsidian"
+  lore:
+    - 'Compressed Obsidian surrounded'
+    - 'by Compressed Obsiddian'
+    - 'CANNOT BE SOLD TO SHOP'
+    - 'NOT USEFUL TO WEAR'
+Boots:
+  enchants:
+    - 'PROTECTION_ENVIRONMENTAL:4'
+    - 'DURABILITY:5'
+  material: "DIAMOND_BOOTS"
+  data: 0
+  name: "&3&lAncient Flippers"
+  lore:
+    - '&3&oPowerful, martime flippers of'
+    - '&3&othe great Leviathan legend.'
+    - ''
+    - '&3&lANCIENT SET BONUS'
+    - '&3* +35% Outgoing Damage.'
+    - '&3* -15% Incoming Damage.'
+    - '&3* Auto Bless'
+    - '&7&o(Requires all 4 ancient items.)'

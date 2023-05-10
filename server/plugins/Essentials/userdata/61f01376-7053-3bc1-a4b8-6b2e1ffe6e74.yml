@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.150.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683738754284
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683739453686
+  login: 1683739267195
+money: '78.27'
+last-account-name: RKV5
+lastlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 211.5
+  y: 63.0
+  z: 52.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 208.50700958401802
+  y: 55.0
+  z: -194.30000001192093
+  yaw: 36.45021438598633
+  pitch: 31.349998474121094

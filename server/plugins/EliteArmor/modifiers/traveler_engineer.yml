@@ -1,0 +1,34 @@
+Material: "NETHER_STAR"
+Name: "&6&lMulti Crystal &6&l(&5&lD&6&l, E)"
+Lore:
+  - '&7Drag n'' Drop to apply this'
+  - '&7modifier to an item'
+  - ''
+  - '&6&lCrystal Bonus:'
+  - '&5&lDimensional Traveler'
+  - ' &5&l*&5 +7.5% Outgoing Damage'
+  - ' &5&l*&5 +20% Dimensional Shift Ability'
+  - '&6&lEngineer'
+  - ' &6&l*&6 -9% Incoming Damage'
+  - ' &6&l*&6 +20% B-2 Bomber Ability'
+
+Effects:
+  - 'DAMAGE:7.5'
+  - 'SUFFOCATE:.6:3:3'
+  - 'BOMBER:.75:4:5000'
+  - 'REDUCTION:9'
+
+
+Added-Lore: "&6&lMulti Crystal &6&l(&5&lD&6&l, E)"
+
+Messages:
+  apply: "&a&l(!) &aYou have applied &6&lMulti Crystal &6&l(&5&lD&6&l, E) to your item"
+  fail: "&c&l(!) &cYou have failed to apply &6&lMulti Crystal &6&l(&5&lD&6&l, E) to your item"
+
+Settings:
+  armor-types:
+    - 'DIAMOND'
+    - 'LEATHER'
+    - 'HEROIC'
+  require-sets: []
+  both: false

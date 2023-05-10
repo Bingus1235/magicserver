@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.150.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682524709574
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683739449586
+  login: 1683739214631
+money: '58.99'
+last-account-name: LoPo
+logoutlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 198.48585674993203
+  y: 63.0
+  z: 60.46119901917893
+  yaw: -53.99977111816406
+  pitch: 32.84999465942383
+lastlocation:
+  world: 3047bdb2-8885-4539-8be7-4ad60cf64768
+  world-name: world
+  x: 297.69999998807907
+  y: 71.0
+  z: 196.39003621906434
+  yaw: 142.20028686523438
+  pitch: 32.10000991821289

@@ -1,0 +1,9 @@
+Welcome {PLAYER} on Bingus server
+
+You may need to verify to do so gmail username and your 
+real name to id 3471617388 
+
+update: Ok so you may know about the weird happen
+and no one could join. That was because there 
+were many bugs and I had to upgrade the core to 8.
+So the server is now faster.

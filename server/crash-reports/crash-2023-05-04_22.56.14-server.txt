@@ -1,0 +1,87 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 5/4/23, 10:56 PM
+Description: Exception in server tick loop
+
+java.lang.RuntimeException: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 143, column 1:
+    a
+    ^
+could not find expected ':'
+ in 'string', line 144, column 1:
+    
+    ^
+
+	at com.google.common.base.Throwables.propagate(Throwables.java:160)
+	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:68)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:177)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 143, column 1:
+    a
+    ^
+could not find expected ':'
+ in 'string', line 144, column 1:
+    
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:62)
+	... 3 more
+Caused by: while scanning a simple key
+ in 'string', line 143, column 1:
+    a
+    ^
+could not find expected ':'
+ in 'string', line 144, column 1:
+    
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	... 6 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.8
+	Operating System: Linux (amd64) version 5.15.0-47-generic
+	Java Version: 11.0.19, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Azul Systems, Inc.
+	Memory: 471209200 bytes (449 MB) / 536870912 bytes (512 MB) up to 536870912 bytes (512 MB)
+	JVM Flags: 2 total; -Xmx12884m -Xmx512M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	CraftBukkit Information: 
+   Running: CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) false
+   Plugins: {}
+   Warnings: DEFAULT
+   Reload Count: 0
+   Threads: { RUNNABLE Signal Dispatcher: [], WAITING Thread-2: [java.base@11.0.19/jdk.internal.misc.Unsafe.park(Native Method), java.base@11.0.19/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194), java.base@11.0.19/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081), java.base@11.0.19/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433), app//com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), app//org.bukkit.craftbukkit.v1_8_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:25), java.base@11.0.19/java.lang.Thread.run(Thread.java:829)], TIMED_WAITING Server Infinisleeper: [java.base@11.0.19/java.lang.Thread.sleep(Native Method), app//net.minecraft.server.v1_8_R3.DedicatedServer$1.run(DedicatedServer.java:54)], RUNNABLE Reference Handler: [java.base@11.0.19/java.lang.ref.Reference.waitForReferencePendingList(Native Method), java.base@11.0.19/java.lang.ref.Reference.processPendingReferences(Reference.java:241), java.base@11.0.19/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)], WAITING Finalizer: [java.base@11.0.19/java.lang.Object.wait(Native Method), java.base@11.0.19/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), java.base@11.0.19/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176), java.base@11.0.19/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)], RUNNABLE Server console handler: [java.base@11.0.19/java.io.FileInputStream.readBytes(Native Method), java.base@11.0.19/java.io.FileInputStream.read(FileInputStream.java:279), java.base@11.0.19/java.io.BufferedInputStream.fill(BufferedInputStream.java:252), java.base@11.0.19/java.io.BufferedInputStream.read(BufferedInputStream.java:271), app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248), app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261), app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198), app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145), app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183), app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333), app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269), app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257), app//net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:81)], WAITING Snooper Timer: [java.base@11.0.19/java.lang.Object.wait(Native Method), java.base@11.0.19/java.lang.Object.wait(Object.java:328), java.base@11.0.19/java.util.TimerThread.mainLoop(Timer.java:527), java.base@11.0.19/java.util.TimerThread.run(Timer.java:506)], TIMED_WAITING Common-Cleaner: [java.base@11.0.19/java.lang.Object.wait(Native Method), java.base@11.0.19/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), java.base@11.0.19/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148), java.base@11.0.19/java.lang.Thread.run(Thread.java:829), java.base@11.0.19/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:161)], RUNNABLE Server thread: [java.base@11.0.19/java.lang.Thread.dumpThreads(Native Method), java.base@11.0.19/java.lang.Thread.getAllStackTraces(Thread.java:1653), app//org.bukkit.craftbukkit.v1_8_R3.CraftCrashReport.call(CraftCrashReport.java:29), app//net.minecraft.server.v1_8_R3.CrashReportSystemDetails.a(SourceFile:78), app//net.minecraft.server.v1_8_R3.CrashReport.h(CrashReport.java:127), app//net.minecraft.server.v1_8_R3.CrashReport.<init>(CrashReport.java:34), app//net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:636), java.base@11.0.19/java.lang.Thread.run(Thread.java:829)], RUNNABLE DestroyJavaVM: [],}
+   Recent tasks from -31--1{}
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 15; []
+	Is Modded: Definitely; Server brand changed to 'PaperSpigot'
+	Type: Dedicated Server (map_server.txt)
